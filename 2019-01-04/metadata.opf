@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a68626b-24d9-4260-8946-0e407ca51475</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-04T03:45:12.759734+00:00</dc:date>
+        <dc:description>本期文章:
+
+Ruth Prawer Jhabvala and the Art of Ambivalence
+
+The Philosopher Redefining Equality
+
+Briefly Noted Book Reviews
+
+A Twisted Fairy Tale About Toxic Masculinity
+
+What 2018 Looked Like Fifty Years Ago
+
+A Party for Besties at the Explorers Club
+
+“Philosophy of the Foot”
+
+The Disco-Infused Funk of the Illustrious Blacks
+
+The Food Babies of Instagram
+
+A Subway Genius Hunts Down an Apartment Mouse
+
+Sally Rooney Gets in Your Head
+
+Personal History by David Sedaris: Father Time
+
+“Pretend It Was Just the Wind”
+
+“Advent”
+
+How Mark Burnett Resurrected Donald Trump as an Icon of American Success
+
+Commandments of the Lord Who Created Meryl Streep
+
+Sidewalk! The Game
+
+Pick and Mix Boldly Traditional Thai Dishes at Taladwat
+
+The Inflation of Abstraction
+
+“Stan &amp; Ollie” Explores the Slapstick Pair’s Plaintive Dusk
+
+The Star of “Roma” Takes an Empire State Building Selfie
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">bc09303e-33e0-4b91-b4c7-9455e40e2096</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-04T03:45:20.361215+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -7,6 +7,12 @@
 
 Thanks.
 
+## Other links
+1. [The Economist](https://github.com/wuhuanyu/the_economist)
+2. [Atlantic](https://github.com/wuhuanyu/atlantic)
+3. [MIT Technology Review](https://github.com/wuhuanyu/mit_tech)
+4. [New Yorker](https://github.com/wuhuanyu/newyorker)
+
 ## Prerequsites
 
 If you want to save all files I upload,you are supposed to be familiar with some basic git operations. Of course, it's probably ok should you were not so comfortable with command line, just follow the tips below. Following steps will save you from those geek gadgets. 

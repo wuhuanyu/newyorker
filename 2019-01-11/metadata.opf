@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0f0ebf0-f63c-48c7-9491-791d9d653c43</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-11T01:14:55.538216+00:00</dc:date>
+        <dc:description>本期文章:
+
+The French Burglar Who Pulled Off His Generation’s Biggest Art Heist
+
+The History of Blood
+
+Briefly Noted Book Reviews
+
+A Début Novel Captures a City on the Boil
+
+The House Democrats’ Best Path Forward
+
+Is Marijuana as Safe as We Think?
+
+“All Rivers”
+
+Does the Paint World Need Another White?
+
+The Opera That Externalizes the Private Agony of Depression
+
+The New Jersey A.G. Taking on Trump
+
+Viktor Orbán’s Far-Right Vision for Europe
+
+Greek to Me
+
+“American Sonnet for the New Year”
+
+“Etiology”
+
+Carterism
+
+Mission Chinese Food Enters Its Bushwick Phase
+
+The Unwise Candor of “The Aspern Papers”
+
+Nicole Perlman Harnesses Her Superpowers
+
+When Your Dinner Comes with a “Sea to Pan” Journey
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">78e928e6-a226-4d94-9f82-0509a1f88297</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-11T01:15:06.261574+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

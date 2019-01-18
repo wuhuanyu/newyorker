@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">085cdae5-7a5a-440b-8e32-2e2ab8116596</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-18T01:19:43.577051+00:00</dc:date>
+        <dc:description>本期文章:
+
+Denise Ho Confronts Hong Kong’s New Political Reality
+
+Marking Time with Yuji Agematsu
+
+How the Idea of Hell Has Shaped the Way We Think
+
+Briefly Noted Book Reviews
+
+Sally Wen Mao Writes Visionary Poems for a Blinkered World
+
+The Republican Test at the Border
+
+The Art of Decision-Making
+
+“Do Not Stop”
+
+A Fresh Sondheim Revival from Fiasco Theatre
+
+Don’t Call It “Weed,” and Other Tips from the Cannabis Media Summit
+
+Andrew Cuomo and the Unwinnable L-Train Game
+
+The Upbeat Appeal of “Good Trouble” and “Brooklyn Nine-Nine”
+
+The Bleak Brilliance of Nick Drnaso’s Graphic Novels
+
+“Cliffhanging”
+
+“I give in to an old desire”
+
+Sharon Van Etten Finds Peace After Ache
+
+How to Write a Condolence Letter
+
+An Artist’s Life, Refracted in Film
+
+Idioms Updated for Climate Change
+
+Chili Crabs Provide a Lively Intro to Singaporean Cuisine at Yummy Tummy
+
+Rage and Recovery in “Blue Ridge”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">19d19594-5e0b-4e8b-8b5d-dfe9f3044f24</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-18T01:19:50.966559+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

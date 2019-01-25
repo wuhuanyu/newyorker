@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d97d4c1-ab57-44fe-800a-93eabca7f513</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-25T11:06:32.042886+00:00</dc:date>
+        <dc:description>本期文章:
+
+How to Read the Good Books
+
+Does Journalism Have a Future?
+
+Robert Mapplethorpe Returns to the Guggenheim
+
+Briefly Noted Book Reviews
+
+William Barr and the Crucial Role of the Justice Department
+
+Tailgating the Tappan Zee Demolition
+
+“Cream”
+
+An East Village Apartment with Its Own Trapeze
+
+How a Teen’s Death Has Become a Political Weapon
+
+Psychotic Opera at the Prototype Festival
+
+The Secrets of Lyndon Johnson’s Archives
+
+“Supply and Demand”
+
+“Sub Rosa Madrigal”
+
+Why Marlon James Decided to Write an African “Game of Thrones”
+
+A Homecoming for “Hamilton” in Puerto Rico
+
+You Have to Watch This Show
+
+An L Train Love Story
+
+When Will My Apartment Be Underwater?
+
+Uptown Glamour and Tortellini Pie at Leonti
+
+Dana Schutz’s Paintings Wring Beauty from Worldwide Calamity
+
+“Glass,” the Last Piece of M. Night Shyamalan’s Superhero Puzzle
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ecbd1ff5-f94d-42d1-b5ac-017a3ff555c1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-25T11:06:39.480550+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

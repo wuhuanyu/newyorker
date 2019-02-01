@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7ea98ff-4255-41d0-9f49-5ba2111158ff</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-01T00:13:54.771163+00:00</dc:date>
+        <dc:description>本期文章:
+
+A Grand Plan to Clean the Great Pacific Garbage Patch
+
+The Supreme Court Case That Enshrined White Supremacy in Law
+
+The Personal Toll of Whistle-Blowing
+
+Writing About Writing About the Border Crisis
+
+Briefly Noted Book Reviews
+
+Will the Supreme Court Use a New York City Regulation to Strike Down Gun Laws?
+
+Save Our Starbucks
+
+“What Can You Do with a General”
+
+NAO’s Simmering Slow Jams Come to Terminal 5
+
+Redefining the, Like, Idea of the Valley Girl
+
+The Family Business That Put Nashville Hot Chicken on the Map
+
+The Clever Thrill Ride of “Russian Doll”
+
+“Gift Planet”
+
+“The Butterfly House”
+
+No Wonder Donald Trump Kept Going Bankrupt
+
+Food Banks and Side Gigs at J.F.K.
+
+The ABCs of Graffiti
+
+Japanese Freshwater Eel Slithers Onto the New York Dining Scene
+
+The Once Radical Slashes of Lucio Fontana
+
+The Beige Noir of “Serenity”
+
+The Chaos of American Manhood in “True West”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">88d9f986-31d5-42f8-a39c-25770641a445</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-01T00:14:01.669512+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

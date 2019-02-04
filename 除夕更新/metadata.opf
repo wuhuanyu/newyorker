@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaa0186d-b1f5-42d0-841a-6140709aac8e</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-04T11:35:25.562822+00:00</dc:date>
+        <dc:description>本期文章:
+
+Pamela Adlon, the TV Auteur Hiding in Plain Sight
+
+Frida Kahlo’s Style and Substance
+
+The Great Hollywood Screenwriter Who Hated Hollywood
+
+Shane McCrae’s Poems to America
+
+Briefly Noted Book Reviews
+
+Trump’s State of Disunion
+
+“Asleep at the Wheel”
+
+Are Consenticorns the Spirit Animal of 2019?
+
+Celebrity Delirium on “The Masked Singer” and “The Other Two”
+
+Roomful of Teeth Is Revolutionizing Choral Music
+
+The Machine Stops
+
+A Suspense Novelist’s Trail of Deceptions
+
+Karl Sharro’s Acid-Tinged Satire of the Middle East
+
+Signs That Something Might Be Going Around the Office
+
+The Butcher Cooks the Meat at Hudson &amp; Charles Dinette
+
+When “Spaceman” Came Crashing Down to Earth
+
+The Encrypted Truths of “Never Look Away”
+
+The Zero-Waste Movement Meets Fine Dining
+
+“My Father in English”
+
+“Heart of Darkness”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8d069cf4-a5e0-4fc4-aefe-2559e5108352</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-04T11:35:33.902609+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

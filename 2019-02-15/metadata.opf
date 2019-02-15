@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5643ae6-a5cb-4c25-b633-e175d13da374</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-11T12:36:56.549915+00:00</dc:date>
+        <dc:description>本期文章:
+
+Eugene V. Debs and the Endurance of Socialism
+
+Private Mossad for Hire
+
+Briefly Noted Book Reviews
+
+The House Takes on America’s Voting-Rights Problem
+
+What Went Wrong at New York City Ballet
+
+Inside Sean Lennon’s Seussian Music Studio
+
+“The Confession”
+
+Anderson .Paak’s California Cool
+
+The Oil-Pumping Adventures of Rachael Van Horn
+
+The Dizzying Democratization of Baroque Music
+
+Heidi Schreck Takes the Constitution to Broadway
+
+Everywhere and Nowhere: A Journey Through Suicide
+
+“I Saw a House, a Field”
+
+Anniversary Crossword
+
+Turning Up the Heat on Bad Landlords
+
+You Will Thank Me
+
+Barca Brings Manhattan-Style Dining to Staten Island
+
+The Oscar-Nominated Doc About a Pad Machine
+
+Ex Appeal in “Everybody Knows”
+
+Richard E. Grant Hearts Barbra Streisand
+
+Roger Stone’s and Jerome Corsi’s Time in the Barrel
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3777b313-997a-4644-b6be-082ab7057a5c</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-11T12:37:06.620852+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

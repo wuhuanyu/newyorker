@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e9e3a11-cbc8-4bcf-a1cb-71535bb7d6d0</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-01T00:49:54.807175+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Hallucinatory Realism of Rachel Ingalls
+
+How Much a Dementia Patient Needs to Know
+
+The Jail Health-Care Crisis
+
+Are Robots Competing for Your Job?
+
+How the Man of Reason Got Radicalized
+
+Briefly Noted Book Reviews
+
+Andrew McCabe’s Countdown to the Mueller Report
+
+Is the Strand a Landmark?
+
+“The Starlet Apartments”
+
+A Visit to Mondrian’s Grave
+
+The Temptations Get a Broadway Jukebox Musical
+
+Sarah Cooper’s Non-Threatening Leadership Skills for Women!
+
+The Psychiatrist Who Believed People Could Tell the Future
+
+Middle-School Mortification on “PEN15”
+
+“Hotel Days”
+
+“For Chiara”
+
+Congratulations on Your New Debt
+
+Rhode Island Pizza with Global Twists, at Violet
+
+Jasper Johns and the Question of Meaning
+
+The Grim Rapacity of “The Iron Orchard”
+
+Stephen Sondheim and Lynn Nottage Revivals Time-Travel Through Artists’ Lives
+
+The Golf Academy Inside Brooks Brothers
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">21ae0201-3556-4258-99c8-8a8cfdd306f7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-01T00:50:02.860086+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

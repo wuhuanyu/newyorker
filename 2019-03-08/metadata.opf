@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54d71964-6b97-4e6d-be39-c0c0760d0f72</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-08T00:43:13.290701+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Making of the Fox News White House
+
+The Female Chef Making Japan’s Most Elaborate Cuisine Her Own
+
+Spring Art Preview
+
+When the Frontier Becomes the Wall
+
+Briefly Noted Book Reviews
+
+Anne Sofie von Otter Leaps from Past to Future
+
+Spring Classical-Music Preview
+
+Trump, Kim, Cohen, and the Limits of the President’s Power
+
+Spring Dance Preview
+
+“All Will Be Well”
+
+Compost Collection by Bike
+
+Spoken-Word Poetry’s Dynamic Duo
+
+Spring Movies Preview
+
+Spring Night-Life Preview
+
+An Art Installation Lends a Hand—or at Least Part of One
+
+Family Medicine
+
+“No House”
+
+“Artichokes”
+
+Buddy Guy Is Keeping the Blues Alive
+
+Howard Schultz’s Biggest Haters
+
+Never Going to Italy
+
+Niche’s Mazemen Ramen Cuts to the Chase
+
+Joan Miró’s Modernism for Everybody
+
+The Genius of Julianne Moore in “Gloria Bell”
+
+Jackie Sibblies Drury on the Work of Caregiving and Taking
+
+Spring Theatre Preview
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">71c52d11-6290-4c66-b749-677e96f30da2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-08T00:43:22.399159+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75cf8178-655a-429b-99fd-0bfa45af2fec</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-15T01:05:03.968582+00:00</dc:date>
+        <dc:description>本期文章:
+
+John Williams and the Canon That Might Have Been
+
+The Luxury Paint Company Creating a New Kind of Decorating Anxiety
+
+Briefly Noted Book Reviews
+
+The Pros and Cons of Impeaching Trump
+
+Young Roger Stone’s Cutthroat Teen Spirit
+
+“Color and Light”
+
+Psychedelic Outer-Space Jazz at the Mercury Lounge
+
+Bill Hader Kills
+
+On “Shrill” and “Better Things,” Women Stop Being Good Sports
+
+“Along the East River and in the Bronx Young Men Were Singing”
+
+“Bellringer”
+
+Helado Negro’s New Songs Bask in a Sense of Discovery
+
+King Karl Is Dead, and Fashion Is Free
+
+Virgil Abloh, Menswear’s Biggest Star
+
+A Designer Who Dresses Horses and Humans
+
+Your Guide to the Cool New Airport Terminal
+
+Kwame Brathwaite’s Grandassa Models
+
+A Pop-Up Goes Permanent at Oxalis
+
+A Half Century of Sondheim Collaborations
+
+Captain Marvel Saves a Movie
+
+The Bel Air Battleground of “Daddy”
+
+Outdoor Voices Blurs the Lines Between Working Out and Everything Else
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8f28e273-210c-4ec4-b97d-be6bbe5c2ee4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-15T01:05:11.475945+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

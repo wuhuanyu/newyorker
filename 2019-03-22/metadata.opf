@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69b10f9b-90e8-4cb3-b8f9-d24ce475e998</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-22T00:21:32.230233+00:00</dc:date>
+        <dc:description>本期文章:
+
+Affect Theory and the New Age of Anxiety
+
+Can Kathy Griffin Come Back from the Dead?
+
+Briefly Noted Book Reviews
+
+The Magical Thinking Around Brexit
+
+In “I Married an Angel,” a Bold Ballerina Makes Her Speaking-Role Début
+
+“Dandelion”
+
+The Chaotic Triumph of Arron Banks, the “Bad Boy of Brexit”
+
+A Beloved Canadian Novelist Reckons with Her Mennonite Past
+
+The Concerto Challenge
+
+A Kilroy in Paris
+
+My Father’s Stack of Books
+
+“Ambition”
+
+“Pickpocket, Naples”
+
+Gesaffelstein’s Dance Music Punctures the Coachella Bubble
+
+An Artist’s Archeology of the Mind
+
+Good Morning, Moon
+
+Marlow &amp; Sons’ Quiet Transformation
+
+Bubba the Love Sponge, Free-Speech Icon?
+
+“Hotel Mumbai” and the Problem with Terrorism Movies
+
+The Mail
+
+The Art of Aspiration in “Kiss Me, Kate” and “Be More Chill”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ef1c23e1-09aa-4c21-b829-9f19bcea3d01</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-22T00:21:39.286807+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

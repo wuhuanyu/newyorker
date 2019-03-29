@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34246789-941a-4273-bae9-f0f67b907993</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-29T01:04:34.281501+00:00</dc:date>
+        <dc:description>本期文章:
+
+Jair Bolsonaro’s Southern Strategy
+
+Cynthia Talmadge’s Viewing Party
+
+The Artist Who Scours Instagram and the Internet
+
+From H.R.H. to S &amp; M
+
+How the Little Ice Age Changed History
+
+Briefly Noted Book Reviews
+
+The Radical Style of Andrea Dworkin
+
+Keeping Up with Amy Hempel
+
+It’s Mueller Time
+
+“The Match”
+
+Birding Brothers of the Bronx
+
+The Refugee and the Thief
+
+The Flashy Pleasures of “Billions”
+
+Jay Inslee, Candidate and Eco-Dude
+
+“Daphne, After”
+
+“I Don’t Want to Be a Spice Store”
+
+Steve Earle’s Winsome Tribute to Guy Clark
+
+Allergy Forecasts for This Week
+
+Blended Family, Hollywood Edition
+
+At the Fly, Rotisserie Chicken Is the Ultimate Bar Food
+
+The Intoxicating Thrill of Tintoretto
+
+Louisiana’s Disappearing Coast
+
+With “Us,” Jordan Peele Steps Beyond the Confines of the Horror Flick
+
+“White Noise” Is a Morality Play Without the Passion
+
+The Woman Who Has Styled Justin Bieber, Anita Hill, and the iPod
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">130bd534-e336-43c9-968a-422fde4955c9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-29T01:04:42.809430+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

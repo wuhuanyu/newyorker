@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15f08cdc-41be-4aa4-bb9c-ac842e641aaf</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-05T01:01:08.786541+00:00</dc:date>
+        <dc:description>本期文章:
+
+How the South Won the Civil War
+
+Turning Bystanders Into First Responders
+
+The Challenge of Going Off Psychiatric Drugs
+
+The Day the Dinosaurs Died
+
+Susan Choi’s Novel Takes High-School Drama Seriously
+
+What Baseball Teaches Us About Measuring Talent
+
+Briefly Noted Book Reviews
+
+Poetry That Bears Witness to a Changing Natural World
+
+The Media and the Mueller Report’s March Surprise
+
+Tim Cook’s Big Apple Circus
+
+The Hidden Air Pollution in Our Homes
+
+“Lulu”
+
+Robert Mueller, Best-Seller?
+
+“The El”
+
+“French Novel”
+
+“Soundtrack of America” Brings a Broad Spectrum of Black Music to the Shed
+
+It’s a Flat Earth
+
+Rocco DiSpirito’s Nostalgic Return to the Kitchen at the Standard Grill
+
+A Nerd Learns to “Be More Chill”
+
+The Winning Excess of “The Beach Bum”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2d936615-d7a1-4387-940b-e76847da1fe0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-05T01:01:27.012782+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0c025b6-06df-4a45-bb5b-0bfc8d8a078a</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-12T00:23:25.981051+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Age of Robot Farmers
+
+What Do the Church’s Victims Deserve?
+
+The Hairdo’s and Don’ts of Wig Design
+
+Nelson Algren’s Street Cred
+
+Who Belongs in Prison?
+
+Halle Butler’s “The New Me” Is an Office Novel for a Precarious Age
+
+Briefly Noted Book Reviews
+
+Tim Blake Nelson, Classics Nerd, Brings “Socrates” to the Stage
+
+William Barr’s Choices
+
+“Medusa”
+
+Moving Day at the Hells Angels Clubhouse
+
+What Does It Take to Be a Female Genius?
+
+The Rise and Fall of a New York Shock Jock
+
+What Cancer Takes Away
+
+“After-Party”
+
+“Catch”
+
+A Roundabout Revival of Arthur Miller’s “All My Sons”
+
+The Dump Trump Debate
+
+#Proletariat
+
+Hot Pot for the Type-A Personality at O:n°
+
+T. C. Cannon’s Blazing Promise
+
+Flesh Meets Machine in “High Life”
+
+Sam Gold’s Self-Serving Vision of “King Lear”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6714572e-1206-49a8-afb6-42ce047e66b4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-12T00:23:33.352049+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61b3822e-5d26-4298-bfd7-e0fbc9cd57ad</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-19T00:41:45.940730+00:00</dc:date>
+        <dc:description>本期文章:
+
+Guantánamo’s Darkest Secret
+
+What’s New About Conspiracy Theories?
+
+Man, Woman, and Robot in Ian McEwan’s New Novel
+
+The Story of a Queer European Refugee Who Insists on Self-Invention
+
+Briefly Noted Book Reviews
+
+The Trump-Netanyahu Alliance
+
+Akram Khan Remakes “Giselle”
+
+“Cut”
+
+Roller-Skating for Reproductive Rights
+
+Does That Bible Come in Rose Gold?
+
+The Shape-Shifting Music of Tyshawn Sorey
+
+“Apple Thieves”
+
+“To a Kid Launched One Year After the iPhone”
+
+The Cinematic Landmarks That Come in Threes
+
+Lucas Hnath Lets Actors Fight It Out Onstage
+
+The Playboy Bunny, Empowered?
+
+The Best Outdoor Dining in New York City
+
+How It Begins
+
+A Famous Chicago Burger Comes to New York
+
+Siege Mentality in “Stockholm”
+
+Ramy Youssef’s Sort-of-Sacred Standup
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">100c8f6c-bf59-4058-98d6-afd9218825d2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-19T00:41:53.655494+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

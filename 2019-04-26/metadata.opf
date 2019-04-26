@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c17cf52-21b0-4ffa-bbb5-8a0c1821e840</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.40.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-26T10:18:33.642610+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Airbnb Invasion of Barcelona
+
+The Culinary Muse of the Caucasus
+
+Spin Through Outer Space on the Roof of the Met
+
+John Hersey and the Art of Fact
+
+What It Takes to Put Your Phone Away
+
+Briefly Noted Book Reviews
+
+The Man Who Built the Bauhaus
+
+Instagram Bootcamp for Festival Season
+
+Donald Trump’s Brush with Accountability
+
+A Hideous-Men Walking Tour
+
+“Poetry”
+
+More Pelvis, Everybody!
+
+The Wild Carnival at the Heart of Skiing’s Most Dangerous Race
+
+Chick Magnets on “Gentleman Jack” and “Killing Eve”
+
+Chasing the Aurora Borealis
+
+“Privacy”
+
+“April”
+
+Sublime Frequencies’ Vision of What World Music Means Today
+
+When You’re Looking for the Very Best
+
+Wayan’s Uneven Spin on Indonesian Cuisine
+
+The Lehman Judges Judge “The Lehman Trilogy”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">727fda65-97f0-4052-98f9-ab9e530fd55b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-26T10:18:40.654367+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

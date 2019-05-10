@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6966d291-2944-4eca-9daa-fbded8f3568f</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-10T00:25:22.401287+00:00</dc:date>
+        <dc:description>本期文章:
+
+Who Owns South Africa?
+
+The Sartorial Confections of the Met’s “Camp: Notes on Fashion”
+
+Science Fiction Doesn’t Have to Be Dystopian
+
+Briefly Noted Book Reviews
+
+Trump, Barr, and the Rule of Law
+
+Is Noise Pollution the Next Big Public-Health Crisis?
+
+“Brawler”
+
+A Sensual Dinner for Renoir’s Nudes
+
+A Village Doctor’s Literary Calling
+
+Rub-a-Dub Theatre
+
+Deep Cuts from Pete Buttigieg’s Rhodie Résumé
+
+Maggie Siff and the Women of Wall Street
+
+" ‘That the Earth is suspended . . . ’ ”
+
+“Visiting San Francisco”
+
+Tracy Morgan Turns the Drama of His Life Into Comedy
+
+O.K., You Can Get a Dog
+
+An Eleven Madison Park Alum Sets a New Tone at Crown Shy
+
+Garry Winogrand and Jeff Wall: Photography in Two Phases
+
+The Silly Satisfactions of “Long Shot”
+
+The Castmates Who Make You Care in “Beetlejuice” and “Tootsie”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">701b45f8-0a52-49b3-8964-58c7026b3bda</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-10T00:25:36.894163+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

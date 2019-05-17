@@ -1,62 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">179</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">6966d291-2944-4eca-9daa-fbded8f3568f</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3413bf30-7f04-46eb-9d39-cf139063a545</dc:identifier>
         <dc:title>New Yorker Magazine</dc:title>
-        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-05-10T00:25:22.401287+00:00</dc:date>
+        <dc:date>2019-05-17T00:19:12+00:00</dc:date>
         <dc:description>本期文章:
 
-Who Owns South Africa?
+Confessions of a Presidential Candidate
 
-The Sartorial Confections of the Met’s “Camp: Notes on Fashion”
+Ballet Kink at the Guggenheim
 
-Science Fiction Doesn’t Have to Be Dystopian
+A Début Novel Remixes the Trope of the Missing Girl
 
 Briefly Noted Book Reviews
 
-Trump, Barr, and the Rule of Law
+If God Is Dead, Your Time Is Everything
 
-Is Noise Pollution the Next Big Public-Health Crisis?
+Can We Live Longer but Stay Younger?
 
-“Brawler”
+Climate Change and the New Age of Extinction
 
-A Sensual Dinner for Renoir’s Nudes
+A “Veep” Star Finds His Inner Pirate
 
-A Village Doctor’s Literary Calling
+“The Presentation on Egypt”
 
-Rub-a-Dub Theatre
+Brandee Younger Manifests Her Own Vision of the Harp’s Potential
 
-Deep Cuts from Pete Buttigieg’s Rhodie Résumé
+A Reparations Movement Begat at Georgetown
 
-Maggie Siff and the Women of Wall Street
+Joanna Hogg’s Self-Portrait of a Lady
 
-" ‘That the Earth is suspended . . . ’ ”
+Philippe Besson’s Book of a Lifetime
 
-“Visiting San Francisco”
+“I’m Sorry”
 
-Tracy Morgan Turns the Drama of His Life Into Comedy
+“Cairn at 4 A.M.”
 
-O.K., You Can Get a Dog
+Electronic Pop for the Surveillance Era
 
-An Eleven Madison Park Alum Sets a New Tone at Crown Shy
+The Art of Building Artificial Glaciers
 
-Garry Winogrand and Jeff Wall: Photography in Two Phases
+Rhiannon Giddens and What Folk Music Means
 
-The Silly Satisfactions of “Long Shot”
+The Kentucky Derby, as Told by the Horses
 
-The Castmates Who Make You Care in “Beetlejuice” and “Tootsie”
+A Tibetan Momo Shop Expands with Lhasa Fresh Food
+
+Why Make Movies About Writers?
 
 Content from the New Yorker website</dc:description>
-        <dc:publisher>calibre</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">701b45f8-0a52-49b3-8964-58c7026b3bda</dc:identifier>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c3a2907f-c79a-4529-8e76-bb7a2260d7e4</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>新闻</dc:subject>
         <dc:subject>New Yorker Magazine</dc:subject>
-        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2019-05-10T00:25:36.894163+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-17T00:19:22+00:00" name="calibre:timestamp"/>
         <meta content="New Yorker Magazine" name="calibre:title_sort"/>
     </metadata>
     <guide>

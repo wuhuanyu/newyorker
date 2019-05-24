@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49d5c3ce-ff86-4682-8158-310b81e3be85</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="Yorker, New" opf:role="aut">New Yorker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-24T00:18:40.474535+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Undercover Fascist
+
+Summer Art Preview
+
+Briefly Noted Book Reviews
+
+The Troubled History of Psychiatry
+
+Summer Classical-Music Preview
+
+The Abortion Fight and the Pretense of Precedent
+
+DanceAfrica’s Focus on Healing Through Tradition
+
+Summer Dance Preview
+
+“Ross Perot and China”
+
+Is Mac DeMarco Growing Up?
+
+Joe Beef and the Excesses of Restaurant Culture
+
+Summer Movies Preview
+
+The Shed Attempts to Inject Culture Into Hudson Yards
+
+Summer Night-Life Preview
+
+Losing Religion and Finding Ecstasy in Houston
+
+“High Force”
+
+“Business”
+
+Rammstein’s Heavy and Cathartic Camp
+
+David Milch’s Third Act
+
+Adaptive Fashion on the Red Carpet
+
+23 and Him
+
+Van Da’s Tour of Vietnamese Delicacies
+
+The Whitney Biennial in an Age of Anxiety
+
+The Teen Who Thwarted Bill de Blasio’s Presidential Announcement
+
+Olivia Wilde’s “Booksmart” Swerves Aside from Expectations
+
+The Crisis Called for Goats
+
+Emotional Malnourishment in “Curse of the Starving Class”
+
+Summer Theatre Preview
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">911b3496-3a5b-41f2-b2eb-92af3e2ba7ee</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-24T00:18:48.792520+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

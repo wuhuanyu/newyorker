@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a9ff891-8a0b-4ccc-9638-4b19d27d8330</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="Yorker, New" opf:role="aut">New Yorker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-31T00:15:38+00:00</dc:date>
+        <dc:description>本期文章:
+
+How Football Leaks Is Exposing Corruption in European Soccer
+
+Parenting by the Numbers
+
+Scents and Sensibility
+
+The Bittersweet Poetry of “Lima :: Limón”
+
+Briefly Noted Book Reviews
+
+The Parkland Provocateur Kyle Kashuv Prepares to Graduate
+
+The Challenge at the Border Shows No Signs of Abating
+
+Chloë Sevigny Can Make You an It Girl, Too
+
+“Canvas”
+
+TV’s Reckoning with #MeToo
+
+Antonio Salieri’s Revenge
+
+“Afghan Funeral in Paris”
+
+“The Chorus”
+
+N.Y.U.’s Graduation Marathon Man
+
+Creative
+
+Szechuan Mountain House Gives Proletarian Fare the Palace Treatment
+
+Timelessness in Works by Thomas Cole and Brice Marden
+
+A Live-Action “Aladdin” Falls Short of Its Animated Predecessor
+
+Can Beto Bounce Back?
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">19bd8745-e503-47fa-917c-a935a3af1b4c</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-31T00:15:44+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

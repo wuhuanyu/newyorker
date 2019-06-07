@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed39c61b-1840-4d61-b0d5-2978a011398b</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="Yorker, New" opf:role="aut">New Yorker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-07T00:18:30.420916+00:00</dc:date>
+        <dc:description>本期文章:
+
+Venezuela’s Two Presidents Collide
+
+A Standoff at the Last Abortion Clinic in Montgomery
+
+Hereafter, Faraway
+
+Geneva, 1959
+
+Stonehenge
+
+Hard Seat
+
+Poorly Mapped
+
+Maurice Sendak’s Opera Designs, at the Morgan Library
+
+Ocean Vuong’s Life Sentences
+
+Briefly Noted Book Reviews
+
+Europe’s Fragmented Center
+
+Stonewall on the Opera Stage
+
+“The Children”
+
+“Conduction”
+
+“Javi”
+
+The Wild West Meets the Southern Border
+
+Breaking and Entering with Megan Mullally
+
+“I Wanted to Be Surprised”
+
+“The Ledge”
+
+Bill Callahan Makes Good Use of Quiet
+
+Jim Sciutto Returns to Regis High School for Debate Prep
+
+José Andrés’s Exuberant Spanish Food Hall at Hudson Yards
+
+“Rocketman” and the Art of the Acceptably Outrageous
+
+Terrence McNally in the Age of #MeToo
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f9241faf-3218-4b70-9808-8584fcafa4ff</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-07T00:18:38.540564+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

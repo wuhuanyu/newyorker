@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">214</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">9675065e-e562-45b0-82ea-5013012ef429</dc:identifier>
         <dc:title>New Yorker Magazine</dc:title>
-        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-06-21T00:05:32.466551+00:00</dc:date>
+        <dc:date>2019-06-21T00:05:32+00:00</dc:date>
         <dc:description>本期文章:
 
 The Empty Promise of Boris Johnson
@@ -56,12 +56,12 @@ Inside the Cultish Dreamworld of Augusta National
 Finding Refuge in “The Secret Life of Bees” and “Much Ado About Nothing”
 
 Content from the New Yorker website</dc:description>
-        <dc:publisher>calibre</dc:publisher>
+        <dc:publisher>New Yorker</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>新闻</dc:subject>
         <dc:subject>New Yorker Magazine</dc:subject>
-        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2019-06-21T00:05:36.506604+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-21T00:05:36+00:00" name="calibre:timestamp"/>
         <meta content="New Yorker Magazine" name="calibre:title_sort"/>
     </metadata>
     <guide>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b54b419a-a832-4bfb-b592-213e354bda05</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-28T00:37:00.203127+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Paternity Reveal
+
+Why Weather Forecasting Keeps Getting Better
+
+Briefly Noted Book Reviews
+
+What Will Follow Trump’s Cancelled Strike on Iran?
+
+What Is It with Millennials and Cactuses?
+
+“Son of Friedman”
+
+Sandra Bernhard on Leaving Bitchy Behind
+
+The Hidden Cost of GoFundMe Health Care
+
+Meredith Monk’s “ATLAS” and the L.A. Phil’s Extraordinary Season
+
+Teyana Taylor’s Pride Island Magnificence
+
+Can Modern Dance Be Preserved?
+
+“Love Poem”
+
+“American Sonnet for My Past and Future Assassin”
+
+Zion Williamson and the N.B.A. Draftees Usher in a New Era of Basketball
+
+Can Emmanuel Macron Stem the Populist Tide?
+
+Rent-Stabilized and Nervous in the East Village
+
+Singin’ in the Acid Rain
+
+A Tel Aviv Restaurant Brings Bacchanalia and Technique to Hell’s Kitchen
+
+“Toy Story 4” Plays It Again
+
+What Would New York Be Without the Beatles?
+
+The Ecstatic Doubling of “A Strange Loop”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-28T00:37:03.706605+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

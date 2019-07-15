@@ -1,69 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">230</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">8241b0ef-ad74-4d22-827f-923132e8968b</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e9d7c18-32a9-411b-b1ea-60bab7ac6b18</dc:identifier>
         <dc:title>New Yorker Magazine</dc:title>
-        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2019-07-12T00:37:32.763743+00:00</dc:date>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.45.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-15T11:46:49.329973+00:00</dc:date>
         <dc:description>本期文章:
 
-How Posters Became Art
+Kicked Off the Land
 
-Will Hunter Biden Jeopardize His Father’s Campaign?
+The Promise and Price of Cellular Therapies
 
-The Artists Who Summered on Long Island
+A Brazilian Polymath’s Tropical Oasis at the New York Botanical Garden
 
-The Imperfect, Unfinished Work of Women’s Suffrage
-
-Rudyard Kipling in America
+How Picasso’s Muse Became a Master
 
 Briefly Noted Book Reviews
 
-The Last Poems of James Tate
+The Art of Aphorism
 
-An Archeological Space Oddity
+The Battle for Health Care
 
-The Democratic Primary’s Moving Margins
+“She Said He Said”
 
-“It’s the End of My Presidency”: Movie Stars Channel Mueller
+A Millennial Countertenor’s Pop-Star Appeal
 
-“Uncle Jim Called”
+Marc Maron Chooses His Weapon
 
-What Led Peru’s Former President to Take His Own Life?
+“These Are the Pearls”
 
-Off-Kilter Humor on “Los Espookys” and “Alternatino”
+“Sentence”
 
-The Lingering of Loss
+What’s in a Woke McRib?
 
-“Conflation”
+Over the Moon
 
-“Leviathan”
+Kamala Harris Makes Her Case
 
-On the Road with Mitski
+Dancing a Memoir at Alvin Ailey
 
-I Am an Old Soul
+Stitch ’n’ Bitch for the Trump Era
 
-World Cup Challenge
+This Password Is Invalid
 
-Go Bold at Da Long Yi Hot Pot
+Udon Takes On New Texture at Hanon
 
-Basquiat’s Memorial to a Young Artist Killed by Police
+Harald Szeemann’s Revolutionary Curating
 
-“Yesterday” Wants to Hold Your Hand
-
-Jim Jarmusch Is Afraid of Cherubs and Abe Lincoln
-
-Waxing Poetic About Plastic
+“The Farewell” Mixes Mourning and Revelry
 
 Content from the New Yorker website</dc:description>
-        <dc:publisher>New Yorker</dc:publisher>
+        <dc:publisher>calibre</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>新闻</dc:subject>
         <dc:subject>New Yorker Magazine</dc:subject>
-        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2019-07-11T16:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-15T11:46:53.534600+00:00" name="calibre:timestamp"/>
         <meta content="New Yorker Magazine" name="calibre:title_sort"/>
     </metadata>
     <guide>

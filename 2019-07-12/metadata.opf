@@ -4,7 +4,7 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">233</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">5e9d7c18-32a9-411b-b1ea-60bab7ac6b18</dc:identifier>
         <dc:title>New Yorker Magazine</dc:title>
-        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.45.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-07-15T11:46:49.329973+00:00</dc:date>
         <dc:description>本期文章:
@@ -52,11 +52,11 @@ Harald Szeemann’s Revolutionary Curating
 “The Farewell” Mixes Mourning and Revelry
 
 Content from the New Yorker website</dc:description>
-        <dc:publisher>calibre</dc:publisher>
+        <dc:publisher>New Yorker</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>新闻</dc:subject>
         <dc:subject>New Yorker Magazine</dc:subject>
-        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="2019-07-15T11:46:53.534600+00:00" name="calibre:timestamp"/>
         <meta content="New Yorker Magazine" name="calibre:title_sort"/>
     </metadata>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbd07675-6e71-4a03-8ade-0d878dfcdbc7</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.45.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-26T00:31:34.934014+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Case of Al Franken
+
+Tickbusters on the Lookout for Lyme
+
+Rediscovering Natalia Ginzburg
+
+Briefly Noted Book Reviews
+
+Citizen, the Smartphone Police Blotter
+
+A Music-Theatre Adaptation of Langston Hughes’s “The Black Clown”
+
+Donald Trump’s Idea of Selective Citizenship
+
+Was the Automotive Era a Terrible Mistake?
+
+“The Little King”
+
+Herman Melville at Home
+
+How Tracy Edwards and the Sailing Crew of Maiden Made Nautical History
+
+Hannah Gadsby’s Song of the Self
+
+“Years and Years” Forces Us Into the Future
+
+The Assassin Next Door
+
+“Prayer Found Under Floorboard”
+
+“World of the future, we thirsted”
+
+Ed Sheeran and Friends
+
+Phone Calls from All Over
+
+Things the New York City Blackout Couldn’t Stop
+
+Jean-Georges’s Revisionist Tweaks at the Fulton
+
+Does “The Lion King” Need C.G.I.?
+
+Morals and Monologues in “The Rolling Stone” and “Mojada”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-26T00:31:38.965887+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

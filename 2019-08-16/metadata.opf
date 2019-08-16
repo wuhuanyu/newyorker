@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96e24fa3-f8c7-44cf-8a3f-e09d3a8f809e</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-15T23:59:29+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Radical Transformations of a Battered Women’s Shelter
+
+The Fight to Redefine Racism
+
+Ecological “Follies” to Tease the Imagination at Storm King
+
+Téa Obreht Reimagines the Western
+
+Briefly Noted Book Reviews
+
+What Toni Morrison Understood About Hate
+
+Making Music from the Met’s Forgotten Treasures
+
+“Elliott Spencer”
+
+Winston Churchill’s Granddaughter’s MTV Connection
+
+Erich Wolfgang Korngold, the Opera Composer Who Went Hollywood
+
+“Sherman’s Showcase” Celebrates a Lost TV Genre
+
+A Year Without a Name
+
+“Scylla and Charybdis”
+
+“Claude Monet, ‘The Artist’s Garden at Vétheuil,’ 1880”
+
+Clairo and the Fuzzy, D.I.Y. Sounds of Bedroom Pop
+
+Recent Articles of Mine
+
+The Worst of the 1919 White Sox
+
+Joey Salads Gets Out the Vote
+
+Johnny Carson’s Favorite Singer
+
+Rezdôra Brings Northern Italy to New York City
+
+“After the Wedding” Flouts Its Own Rules
+
+Stacey Abrams’s Fight for a Fair Vote
+
+Endgames in “Sea Wall/A Life” and “Coriolanus”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-15T23:59:32+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

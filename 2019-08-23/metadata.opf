@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36e3db1d-9670-49fc-b7b7-0e7646a7009f</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-23T00:08:48.108449+00:00</dc:date>
+        <dc:description>本期文章:
+
+State of the Unions
+
+Silicon Valley’s Crisis of Conscience
+
+When W. E. B. Du Bois Made a Laughingstock of a White Supremacist
+
+Fall Art Preview
+
+If Your Goldendoodle Is a Gastronome
+
+How Cultural Anthropologists Redefined Humanity
+
+Briefly Noted Book Reviews
+
+Sex and Power in “The Catholic School”
+
+Fall Classical-Music Preview
+
+The Failure to See What Jeffrey Epstein Was Doing
+
+Fall Dance Preview
+
+A Trailblazing Plan to Fight California Wildfires
+
+A Finance Guy Amasses Sneaker Capital
+
+“The Loop”
+
+Fall Movies Preview
+
+Fall Night-Life Preview
+
+“Open Gesture of an I”
+
+“Telephone Years”
+
+Mike Pompeo, the Secretary of Trump
+
+Pay Off Your Student Loans in Three Easy Lifetimes
+
+How Old Are You, Mr. Mayor?
+
+At L’Accolade, Artful Appetizers Pose as Drinking Food
+
+Renoir’s Problem Nudes
+
+“Where’d You Go, Bernadette” Is at Cate Blanchett’s Command
+
+Fall Theatre Preview
+
+Call Him Mr. Loaf
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-23T00:08:52.319679+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

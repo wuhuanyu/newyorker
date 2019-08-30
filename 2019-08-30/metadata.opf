@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e4b0572-4202-40dc-b92d-900ed32abc22</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="New Yorker" opf:role="aut">New Yorker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-30T00:47:24.036318+00:00</dc:date>
+        <dc:description>本期文章:
+
+Are Spies More Trouble Than They’re Worth?
+
+The Message of Measles
+
+Briefly Noted Book Reviews
+
+Reader, I Googled It
+
+Nell Zink’s Satire Raises the Stakes
+
+China’s Hong Kong Dilemma
+
+The Rich Can’t Get Richer Forever, Can They?
+
+Everything You’re Afraid to Ask About Human Composting
+
+“To Do”
+
+Vija Celmins’s Surface Matters
+
+“Lust Must Have Struck for the First Time”
+
+“Among the Intellectuals”
+
+The Survival of Iggy Pop
+
+Love Poems for People with Children
+
+Sketchbook by Liana Finck: Some Relationship Models
+
+The Subway Valley Floor
+
+Kabab Café’s “Snout to Tail” Delicacies
+
+Baz Luhrmann’s “Moulin Rouge!” Mega Mashup
+
+Marianne Williamson’s Esprit de Orb Corps
+
+The Haunted Street Children of “Tigers Are Not Afraid”
+
+A New Revival of Harold Pinter’s “Betrayal”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>New Yorker</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;New Yorker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-30T00:47:27.242656+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

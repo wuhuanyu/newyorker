@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29d0cb7d-a092-415a-a783-9f4ff7852e98</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-06T00:43:48.532820+00:00</dc:date>
+        <dc:description>本期文章:
+
+Sterling Ruby’s Mixed Media
+
+Wangechi Mutu’s Female Figures Grace the Met’s Façade
+
+Student Debt Is Transforming the American Family
+
+Briefly Noted Book Reviews
+
+What Statistics Can and Can’t Tell Us About Ourselves
+
+The Urgency of the 2020 Senate Race
+
+Greta Thunberg’s Slow Boat to New York
+
+“The Stone”
+
+The Niche Celebrity Satire of “BH90210”
+
+The Book of Prince
+
+“I Cannot Say I Did Not”
+
+“Position Paper”
+
+Brockhampton Grows Up
+
+Alex Prager’s L.A. Dreaming
+
+How Matthew Lopez Transformed “Howards End” Into an Epic Play About Gay Life
+
+Class Notes
+
+The Unapologetic Decadence of Hutong
+
+The Hour of Reckoning Descends in “Mr. Klein”
+
+At Last, an Airbnb for Pools
+
+Mark Ronson’s Midlife Crisis
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-06T00:43:52.230954+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

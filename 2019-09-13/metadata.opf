@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">801f5815-6d72-46dc-84d7-d549a0dec249</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-13T01:22:51.959815+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Moral Logic of Humanitarian Intervention
+
+Margaret Atwood Expands the World of “The Handmaid’s Tale”
+
+Why Lafcadio Hearn’s Ghost Stories Still Haunt Us
+
+Briefly Noted Book Reviews
+
+Back to School Reform
+
+Superfans: A Love Story
+
+For Common, Self-Care Is the New Black
+
+“Harbor”
+
+Bahia Shehab’s Anti-Brexit Street Art
+
+Lily Tomlin and Jane Wagner’s Personal and Professional Partnership
+
+Kirill Petrenko’s Unadventurous Début at the Berlin Philharmonic
+
+My Terezín Diary
+
+“The Man Who Owned Me”
+
+“After Being Asked if I Write the ‘Occasional Poem’ ”
+
+James Atlas’s Life in Life-Writing
+
+James Gray’s Journey from the Outer Boroughs to Outer Space
+
+It’s Not You
+
+Jajaja Plantas Mexicana’s Millennial-Tinged Vegan Trickery
+
+Experiments with Context in “Betrayal” and “Eureka Day”
+
+In Search of Lost Sailboats
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-13T01:23:07.188855+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

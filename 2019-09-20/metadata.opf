@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">293</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9696155-2adc-458f-9b7e-a8e97af0842f</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.48.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-20T00:51:05.458807+00:00</dc:date>
+        <dc:description>本期文章:
+
+Roy DeCarava’s Poetics of Blackness
+
+Jonathan Ledgard Believes Imagination Could Save the World
+
+Susan Sontag and the Unholy Practice of Biography
+
+Edward Snowden and the Rise of Whistle-Blower Culture
+
+Briefly Noted Book Reviews
+
+Rick and Pete Yorn Revisit the Mix-Tape Era
+
+Sportin’ Life Embodies the Split Genre of “Porgy and Bess”
+
+The Democrats’ Trust Exercise
+
+No, James Murdoch Doesn’t Watch “Succession”
+
+Dancing with Sean Spicer
+
+“Wide Spot”
+
+Who Speaks for Crazy Horse?
+
+“Our Boys” and the Economics of Empathy
+
+“Before Winter”
+
+“First Person”
+
+Constance Wu’s Hollywood Destiny
+
+Going to the Restaurant
+
+Notes from the Jazz Age Lawn Party
+
+At the Rebooted Pastis, Stick with the Classics
+
+The Amy Sherald Effect
+
+“Ad Astra” Will Leave You Awed, Confused, and Sad
+
+The Fight for the Latino Vote in Florida
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-20T00:51:14.924993+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

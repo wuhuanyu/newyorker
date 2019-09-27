@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0d42c3b-cbff-4351-bb36-04e4171b606f</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.48.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-27T00:08:25.513924+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Dark Side of Techno-Utopianism
+
+Can a Burger Help Solve Climate Change?
+
+Paging Dr. Robot
+
+Briefly Noted Book Reviews
+
+Is Meritocracy Making Everyone Miserable?
+
+The Desperate Plight Behind “Darkness at Noon”
+
+How TikTok Holds Our Attention
+
+Alan Bigelow’s Solar-Cooking Revolution
+
+Summits, Strikes, and Climate Change
+
+The Hottest Looks from the N.R.A.’s Concealed Carry Fashion Show
+
+“The Fellow”
+
+Classics and Rediscoveries at the New York Film Festival
+
+Four Years in Startups
+
+“The Climate”
+
+“On Friendship”
+
+Running with Scissors
+
+“Hudson Yards”
+
+Jenny Lewis’s Wasted Youth
+
+Red Hook Tavern’s Strangely Stiff Paean to Old-School New York
+
+The Art of the Political Cameo
+
+Villains Hog the Spotlight in “The Laundromat”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-27T00:08:29.063493+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

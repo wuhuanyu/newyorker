@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">573c17f7-1044-43df-896b-826b9f57abab</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.48.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-04T00:52:49.733640+00:00</dc:date>
+        <dc:description>本期文章:
+
+What if Your Abusive Husband Is a Cop?
+
+How Derren Brown Remade Mind Reading for Skeptics
+
+The Wildly Ingenious Work of Jacolby Satterwhite
+
+Briefly Noted Book Reviews
+
+The Norwegian Novel That Divided a Family and Captivated a Country
+
+Fanny Howe Makes Sense of Beginnings and Endings
+
+The Integrity of the Trump Impeachment Inquiry
+
+In Ukraine, a TV President to Rival Trump
+
+William Forsythe’s Self-Portrait in Absentia
+
+“Shape-ups at Delilah’s”
+
+Michael Bloomberg’s Answer to the U.N. General Assembly
+
+Abandoning a Cat
+
+“Angela Hackett, ‘Lemons on a Moorish Plate,’ 2013”
+
+“Ode on Words for Parties (American Edition)”
+
+A Photographer at the Ends of the Earth
+
+Are You on the Apps?
+
+A Taxonomy of Hugs
+
+Turkish Food with Attitude at Lokanta
+
+Richard Serra Will Jolt You Awake
+
+Todd Phillips’s “Joker” Is No Laughing Matter
+
+The Unstable, Flickering “The Height of the Storm”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-04T00:52:54.080943+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

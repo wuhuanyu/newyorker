@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af8b0774-bc55-41f5-8b24-f25ff053b316</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-11T01:15:22.462341+00:00</dc:date>
+        <dc:description>本期文章:
+
+Can a Machine Learn to Write for The New Yorker?
+
+Sample the Fruits of Peak Produce Season at the Union Square Greenmarket
+
+The new OKCupid? O.K., Comrade!
+
+Nietzsche’s Eternal Return
+
+How to Read “Gilgamesh”
+
+An Omani Novel Exposes Marriage and Its Miseries
+
+Briefly Noted Book Reviews
+
+Reginald Dwayne Betts’s Poetry After Prison
+
+Can Smart Wood Help You Log Off?
+
+Donald Trump’s Ukraine Scandal Has Its Roots in Russia
+
+“Sinners in the Hands of an Angry God”
+
+Fighting for Abortion Access in the South
+
+Star-Crossed Pairings in “Porgy and Bess” and “Denis &amp; Katya”
+
+“Presidents’ Day”
+
+“Poem of Names”
+
+Edna O’Brien Is Still Writing About Women on the Run
+
+Meanwhile, in Kiev
+
+At Mo’s Original, It Pays to Be Open-Minded
+
+Gossipeuse to Press Agent: Drop Dead!
+
+“Pain and Glory” Tells Autumnal Truths
+
+Branson Ditches Downton for Manhattan
+
+“Freestyle Love Supreme” Raps Its Way to Broadway
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-11T01:15:25.885762+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

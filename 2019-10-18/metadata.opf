@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3547dba-a5c8-483d-a1c5-9880fe525416</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-18T01:10:56.322236+00:00</dc:date>
+        <dc:description>本期文章:
+
+Is Amazon Unstoppable?
+
+TheRealReal’s Online Luxury Consignment Shop
+
+A Neglected Modern Masterpiece and Its Perverse Hero
+
+Briefly Noted Book Reviews
+
+Will Republicans Challenge Trump on Impeachment?
+
+Ralph Fiennes Channels a Real Spook
+
+“Are You Experienced?”
+
+The Beatboxing Brains of Lin-Manuel Miranda’s Improv Group
+
+Night of the Walking Redheads
+
+My Years in the Florida Shuffle of Drug Addiction
+
+“Hang On”
+
+“Pittsburgh”
+
+Vagabon Goes Her Own Way
+
+Portfolio: The Ghost Towers of Iran’s Housing Crisis
+
+New Releases from the Prince Vault
+
+Miss Ada and Golda’s Modern Spins on Middle Eastern Cooking
+
+The Exuberance of MOMA’s Expansion
+
+“Parasite” Explores What Lies Beneath
+
+A Play About the Nuances of Conservatism in the Trump Era
+
+“Tina: The Tina Turner Musical” Comes to Broadway
+
+Who, Me? Impeached?
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-10-18T01:11:00.428547+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9211364-4116-4340-9c27-ae1e7b95d9cb</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-01T01:02:24.307610+00:00</dc:date>
+        <dc:description>本期文章:
+
+Why We Can’t Tell the Truth About Aging
+
+A Cybersecurity Firm’s Sharp Rise and Stunning Collapse
+
+Ukraine’s Unlikely President, Promising a New Style of Politics, Gets a Taste of Trump’s Swamp
+
+Rachel Feinstein’s Fairy-Tale Fanciful Sculptures
+
+The Women Who Helped Build Hollywood
+
+Briefly Noted Book Reviews
+
+A Clarifying, Upending Week in the Impeachment Inquiry
+
+How to Make a Diamond Disappear
+
+“God’s Caravan”
+
+Who’s Afraid of the Lesbian Haunted House?
+
+Thomas Middleditch’s Chat-Room Childhood
+
+How Brexit Will End
+
+Waiting for Kanye in Wyoming
+
+“Louisiana”
+
+“Failed Essay on Privilege”
+
+Suzy Batiz’s Empire of Odor
+
+A Biblical Rough Draft
+
+The Cross-Cultural Cuisine of Llama San
+
+Remembrance of Kills Past in “The Irishman”
+
+An Ecstatic Revival of Ntozake Shange’s “for colored girls”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-01T01:02:33.828483+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

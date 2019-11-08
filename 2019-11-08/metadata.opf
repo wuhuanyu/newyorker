@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39d600a4-a57e-48cc-8187-557035ff4422</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-08T00:59:10.491908+00:00</dc:date>
+        <dc:description>本期文章:
+
+When America Tried to Deport Its Radicals
+
+Winter Art Preview
+
+The Rise and Fall of Booth Tarkington
+
+Briefly Noted Book Reviews
+
+Liberalism According to The Economist
+
+The Many Voices of Charles Wright
+
+Winter Classical-Music Preview
+
+An “S.N.L.” Alum Among the Cosplayers
+
+Impeachment Goes Public
+
+Winter Dance Preview
+
+“The Flier”
+
+Blood Gold in the Brazilian Rain Forest
+
+In Brexit Britain, the Parliament Choir Is in Purgatory
+
+Sit, Stay, Fight Cybercrime
+
+Winter Movies Preview
+
+Channel Tres’s Stylish Blend of Hip-House and G-Funk
+
+Winter Night-Life Preview
+
+“Evil,” “9-1-1,” and the Appeal of the Network Procedural
+
+My Year of Concussions
+
+“Comedy”
+
+“Aubade”
+
+Todd Haynes Rewrites the Hollywood Playbook
+
+The Environmental Impact of Breaking Up with Me
+
+The Auspicious Treats of Pilar Cuban Bakery and Win Son Bakery
+
+End Times in “Terminator: Dark Fate” and “Marriage Story”
+
+Isabelle Huppert’s Art of Expression
+
+Richard Nelson’s Family Cycles Capture Life in Real Time
+
+Winter Theatre Preview
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-08T00:59:14.715796+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

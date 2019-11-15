@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a7e9f68-524e-45e7-b957-54e1deaa4c77</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-15T01:15:38.244797+00:00</dc:date>
+        <dc:description>本期文章:
+
+From Little Englanders to Brexiteers
+
+The Case Against Boeing
+
+Briefly Noted Book Reviews
+
+Trump’s Frantic Fight for Immunity
+
+The High-Drama Flamenco of Soledad Barrio
+
+Adventures of a Caftan-Curious Man
+
+“The Trip”
+
+The New Front Line of the Anti-Abortion Movement
+
+Dax Shepard, Anthropology Major
+
+Sorrowful Songs at the White Light Festival
+
+The Final Frontier
+
+“Love and Dread”
+
+“Downpour”
+
+Is the Supreme Court’s Fate in Elena Kagan’s Hands?
+
+On the First-World Campaign Trail
+
+Nami Nori’s Hand Rolls Are Worth the Wait
+
+Wrangling Men for Alia Shawkat
+
+Boys Will Be Boys in “Ford v Ferrari”
+
+The Legend of Tina Turner
+
+A Maasai Warrior Among the Deadheads
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-15T01:15:41.735640+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

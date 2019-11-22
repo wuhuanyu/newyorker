@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">380</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2aef6d3-7755-4f99-a44b-aecf52e608fa</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-22T01:02:15.340636+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Invention of Thanksgiving
+
+How Natural Wine Became a Symbol of Virtuous Consumption
+
+Can Babies Learn to Love Vegetables?
+
+The Art of Crafts at the Whitney
+
+Seasonal Celebrations with the Rockettes, Ebenezer Scrooge, and More
+
+Briefly Noted Book Reviews
+
+The Legacy of a Radical Black Newspaperman
+
+The Sober Clarity of the Impeachment Witnesses
+
+“Arizona”
+
+The Grocery Store Where Produce Meets Politics
+
+Kano’s Second Act
+
+Kehinde Wiley and Jeremy O. Harris’s Meeting of the Minds
+
+Mixed Débuts on Apple TV+ in “The Morning Show” and “Dickinson”
+
+SAT Prep for the Über-Rich
+
+My Life as a Child Chef
+
+“An Hour Later, You’re Hungry Again”
+
+“A Baker Swept By”
+
+Wiki Goes from Young Rap Star to Grizzled Veteran
+
+Build the Wall; Fill the Moat
+
+How to Correctly Estimate Cooking Time
+
+Paulie Gee’s, F&amp;F Pizzeria, and New York City’s Slice Renaissance
+
+The Art of the Awkward Silence in “A Beautiful Day in the Neighborhood”
+
+Peter Sarsgaard’s Strange Frequencies
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-22T01:02:19.353893+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">661bba32-6df3-45d9-b049-a3e8d8046c3e</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-29T01:19:59.326873+00:00</dc:date>
+        <dc:description>本期文章:
+
+Prepping for Parole
+
+It’s Still Mrs. Thatcher’s Britain
+
+Joan Didion’s Early Novels of American Womanhood
+
+Briefly Noted Book Reviews
+
+Big Tech’s Big Defector
+
+Gordon Sondland’s Impeachment Testimony for the Ages
+
+An Actresses’ Table for Four, Honoring Mike Nichols
+
+“The Curfew”
+
+Now and Forever with a Giant Baseball for a Head
+
+The Pristine Empire of ECM Records
+
+The Lagerfeld Economy
+
+Hurricane Season
+
+“To Burn Through Where You Are Not Yet”
+
+“Sixty”
+
+Beck Is Home
+
+The Perfect Engagement Photo Session
+
+Botanical Tipples and Dreamy Pastas at Il Fiorista
+
+The Art of War in “Theater of Operations”
+
+Pastiche and Politics in “Knives Out”
+
+“The Inheritance” Is a Tribute to E. M. Forster and an Audacious Work of Its Own
+
+Stephen Adly Guirgis’s Tender, Funny Strokes
+
+Speed Walking with the Sculptor Charles Ray
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-29T01:20:03.302405+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

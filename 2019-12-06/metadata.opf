@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9720fc5-2b8e-4b98-afe4-b9ecc3bfa7b4</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-06T00:57:55.656626+00:00</dc:date>
+        <dc:description>本期文章:
+
+Blood and Soil in Narendra Modi’s India
+
+The Intoxicating History of Gin
+
+Ronny Chieng Defends Dangerous Comedy
+
+Ralph Ellison’s Slow-Burning Art
+
+Briefly Noted Book Reviews
+
+Cryptocurrency 101 in the South Bronx
+
+The Vienna Boys’ Choir’s Holiday Tunes
+
+The Next Steps in the Impeachment Inquiry
+
+Taking Virtual Reality for a Test Drive
+
+“Old Hope”
+
+Book of the Month Club, London Edition
+
+Who Brought the Jugglers to the Metropolitan Opera?
+
+The Incendiary Aims of HBO’s “Watchmen”
+
+“The Green Lake”
+
+“American Sonnet for My Past and Future Assassin”
+
+Burial’s Search for Fleeting Moments
+
+David Hammons Follows His Own Rules
+
+Deep State D.M.V.
+
+Angel Indian’s Impressive Array of Vegetarian Standards and Showstoppers
+
+The Fanciful Flamboyance of “The Aeronauts”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-06T00:58:05.420188+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

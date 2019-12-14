@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37ed4534-4d25-4ce4-bbbe-be0133b89c0a</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-14T01:26:39.405905+00:00</dc:date>
+        <dc:description>本期文章:
+
+Hong Kong’s Protest Movement and the Fight for the City’s Soul
+
+Marriage, Betrayal, and the Letters Behind “The Dolphin”
+
+Briefly Noted Book Reviews
+
+The Terrence Malick–Lil Peep Connection
+
+The 2020 Democrats and the New Politics of Gun Violence
+
+When Toscanini Went to Mohonk
+
+“Sevastopol”
+
+Shopping for Christmas Tunes with Los Lobos
+
+The Kremlin’s Creative Director
+
+The Safdie Brothers’ Full-Immersion Filmmaking
+
+“Passion”
+
+“Republic of Magpies”
+
+How Moondog Captured the Sounds of New York
+
+How William Gibson Keeps His Science Fiction Real
+
+The Electable Female Candidate
+
+The Riddler Celebrates Champagne
+
+The Precarious Descent of “Seberg”
+
+De-Aging De Niro with Suits and Spanx
+
+Women’s Worlds in “Jagged Little Pill” and “Fefu and Her Friends”
+
+The Neo-Cabaret Diva Meow Meow Brings Holiday Glamour to BAM
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-14T01:26:42.793917+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3cb5d38-c962-4705-b486-71411ed35a29</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-27T01:09:04.965242+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Surprise and Wonder of Early Animation
+
+Joan Cusack Has a Tchotchke Shop of Her Own
+
+The Cartoon Department Coup
+
+How to Draw a Horse
+
+Parent as a Verb: The Hormones, They Are A-Changin’
+
+“Parent” as a Verb: Church
+
+“Parent” as a Verb: Sleep Training
+
+“I Can Speak!™,” by George Saunders
+
+“Super Goat Man,” by Jonathan Lethem
+
+Found in Translation
+
+How to Trap Your Neighbors’ Cockatoo
+
+Lost Art, by John Updike
+
+“Portrait of Girl with Comic Book”
+
+“Thought for a Sunshiny Morning”
+
+New Yorker Cartoonists Pick Their Favorite Cartoons
+
+Celebrities Pick Their Favorite New Yorker Cartoons
+
+Scenes from the Life of Roz Chast
+
+Cartoon Crossword
+
+Wile E. Coyote v. Acme Company
+
+Stylish New York Couples
+
+Keith Richards’ Desert-Island Disks
+
+Lines
+
+Hammurabi’s Code of Manners
+
+Fantasy Island, Subway Edition
+
+Make Your Own Cartoon
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-27T01:09:10.166455+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

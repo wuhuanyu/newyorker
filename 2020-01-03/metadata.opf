@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">431</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cd1db51-1f2d-4851-beba-9cabc1fa1b74</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-03T01:10:52.422548+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Ultra-Wealthy Who Argue That They Should Be Paying Higher Taxes
+
+The Bronx Zoo’s Holiday Lights Festival
+
+A Translation Crisis at the Border
+
+The Asian-American Canon Breakers
+
+Briefly Noted Book Reviews
+
+Storytelling Across the Ages
+
+Noche Flamenca Gets Deeper with Age
+
+“Playing Metal Gear Solid V: The Phantom Pain”
+
+Linda Boström Knausgård’s Post-“Struggle” IKEA Trip
+
+A Street Artist Goes Corporate
+
+Opera Against the Patriarchy
+
+The Strangeness of Grief
+
+“From the Catalogue of Cruelty”
+
+“Warbler”
+
+A Radical Restaging of “West Side Story”
+
+Life of Einstein
+
+Maria Bamford Melds Speed Dating and Standup Comedy
+
+Gotham’s Ladies Who Lunch, Three Decades In
+
+A Tabloid Alum Blasts News to the New York Post Nation
+
+Greta Gerwig’s Raw, Startling “Little Women”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-03T01:10:55.989478+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

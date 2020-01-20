@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f01b1892-5a55-4958-aa31-3094acfbb123</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-20T07:18:27.746456+00:00</dc:date>
+        <dc:description>本期文章:
+
+Pinegrove Stages a Complicated Comeback
+
+The Past and the Future of the Earth’s Oldest Trees
+
+The Changing Meaning of Affirmative Action
+
+Briefly Noted Book Reviews
+
+The Pleasure and Pain of Being Cole Porter
+
+Robert Hass’s Inner History of the Decade
+
+How New Jersey’s Twitter Found Its “Big State Energy”
+
+Donald Trump’s Iran Problem
+
+Penn Badgley Gets Away with Murder
+
+A Tale of Two Harveys
+
+“Visitor”
+
+How Far Can Abused Women Go to Protect Themselves?
+
+“Copernicus”
+
+“The Ladder”
+
+100 gecs’ Musical Scrap Yard
+
+William Barr, Trump’s Sword and Shield
+
+Zillow Listings of New York City
+
+A Psychiatrist and an Artist Walk Into a New York Bar
+
+In Cobble Hill, the HiHi Room Stands Alone
+
+Rose Byrne and Bobby Cannavale Take On “Medea”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-20T07:18:30.665204+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

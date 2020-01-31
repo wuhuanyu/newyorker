@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ed7872d-904b-4f72-a537-8211d3a89c63</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-28T07:53:14.558608+00:00</dc:date>
+        <dc:description>本期文章:
+
+Toni Morrison’s Profound and Unrelenting Vision
+
+The Woman Shaking Up the Diamond Industry
+
+The Fight to Preserve African-American History
+
+The Epic Story of Africa’s Flourishing Cultures
+
+The Pitfalls and the Potential of the New Minimalism
+
+Briefly Noted Book Reviews
+
+Trump, Impeachment, and the Short-Term Thinking of the G.O.P.
+
+Impeachment by Day, Drum Solo by Night
+
+“Things We Worried About When I Was Ten”
+
+The Super Bowl, with Estrogen
+
+Hillary Clinton and Patricia Arquette Get Feminist AF
+
+The Magical Thinking of “The Goop Lab”
+
+“Verdicts”
+
+“Emergency Management”
+
+James Corden’s Do-Over
+
+Hello, 911?
+
+“Strangers in the Night”
+
+HK Food Court, a One-Stop Shop for Pan-Asian Cravings
+
+Old Married (Not to Each Other) Costars Try Jujitsu
+
+“The Gentlemen” Is a Nasty Piece of Work
+
+The Last Time Democracy Almost Died
+
+The Dangers of Ambition in “A Soldier’s Play” and “Timon of Athens”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-01-28T07:53:20.245943+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

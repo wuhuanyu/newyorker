@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c43f9f1-10c4-4461-8e0a-610c96c97620</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-07T00:40:10.880577+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Wrong Way to Fight the Opioid Crisis
+
+Qassem Suleimani and How Nations Decide to Kill
+
+Briefly Noted Book Reviews
+
+Did Lincoln Really Matter?
+
+China’s L.B.J. Cliffhanger!
+
+Trump’s Impeachment and the Degrading of Presidential Accountability
+
+Can We Have Prosperity Without Growth?
+
+The Return of “The Oscar,” an Unseeable, Unwatchable Flop
+
+The Residents “Stumble Through” a Rock Opera
+
+“Three Women of Chuck’s Donuts”
+
+Vivian Gornick Is Rereading Everyone, Including Herself
+
+The Pittsburgh Symphony’s Savage Precision
+
+Can Louis C.K. Spin His Troubles Into Art?
+
+“Boy”
+
+“I Trust the Wind and Don’t Know Why”
+
+Etymology of Some Common Typos
+
+“A Nation Divided”
+
+Leo Has Its Finger on the Pulse
+
+“Medea” and “Mac Beth” Reflect Modern Tragedies
+
+“Cambodian Rock Band” ’s Disarming Exploration of Political Trauma
+
+No Impeachment Talk at Daytona
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-07T00:40:15.478747+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

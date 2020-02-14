@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c33030e-5c9c-4cf7-8c76-97bfc8b418c6</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-14T01:07:03.582073+00:00</dc:date>
+        <dc:description>本期文章:
+
+Can Slavery Reënactments Set Us Free?
+
+Can Farming Make Space for Nature?
+
+The Terror and the Fascination of Pompeii
+
+Briefly Noted Book Reviews
+
+When Historical Fiction Goes Magical
+
+Crochet for a Cause
+
+The New York Philharmonic Honors the Nineteenth Amendment
+
+What Matters Most in the Battle Between Trump and Pelosi
+
+“With the Beatles”
+
+Was Jeanne Calment the Oldest Person Who Ever Lived—or a Fraud?
+
+Sex, Drugs, and the New Minibar
+
+“High Fidelity” and “Party of Five” Reboot Nineties Landmarks
+
+The Original Bernie Bro Drums Up Expat Votes
+
+“Elvis Week”
+
+“December”
+
+Yuval Noah Harari’s History of Everyone, Ever
+
+Anniversary Crossword
+
+To My Relatives
+
+Valentine’s Day Gifts for Flu Season
+
+Kochi’s Korean Tasting Menu Offers Everyday Indulgence on a Skewer
+
+The In-Your-Face Paintings of Peter Saul
+
+Harley Quinn Isn’t the Most Criminal Thing in “Birds of Prey”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-14T01:07:07.963832+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bdba51b-86de-46bc-9bb7-934f6bfcd600</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-28T00:33:54.601614+00:00</dc:date>
+        <dc:description>本期文章:
+
+Survivor’s Guilt in the Mountains
+
+Big Tech Is Testing You
+
+Briefly Noted Book Reviews
+
+Fate and Fury in James McBride’s “Deacon King Kong”
+
+How Did the Democrats End Up Here?
+
+The M.T.A. vs. a D.I.Y. Cartographer
+
+“Kid Positive”
+
+Huey Lewis Hooks One
+
+Yuna’s Vibrant R. &amp; B.-Infused Pop
+
+A Murder Trial in Reverse
+
+Unbuttoned
+
+“Zucchini”
+
+“Bunches of a Nest”
+
+The TikTok-Ready Sounds of Beach Bunny
+
+How Stephen Miller Manipulates Donald Trump to Further His Immigration Obsession
+
+X-Treme Rules of the X.F.L.
+
+Just Add Columns! Trump’s Proposed Face-Lift for Federal Buildings
+
+Le Crocodile’s Bold Brooklyn Ambitions
+
+The Lasting Influence of Mexico’s Great Muralists
+
+Watching “The Call of the Wild” with an Audience of Dogs
+
+How Autumn de Wilde Made “Emma” So Edible
+
+A Grim Take on “West Side Story”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-28T00:33:58.479204+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

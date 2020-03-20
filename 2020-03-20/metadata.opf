@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04a747d5-7ffc-4ceb-80b9-0b19dfbcf38c</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-20T00:31:59.839955+00:00</dc:date>
+        <dc:description>本期文章:
+
+Will This Year’s Census Be the Last?
+
+Snow Science Against the Avalanche
+
+At the Met, James Boyd Time-Travels with a Paintbrush
+
+Why Americans Are Dying from Despair
+
+Briefly Noted Book Reviews
+
+Trump’s Discordant Display of Nativism in a Pandemic
+
+A National Lampoon Reboot Takes On Cancel Culture
+
+“Out There”
+
+The Fall of Evo Morales
+
+Valery Gergiev Weighs Down the Met’s New “Flying Dutchman”
+
+“Beach Glass”
+
+“To be a daughter and to have a daughter”
+
+Fiona Apple’s Art of Radical Sensitivity
+
+To Have and to Hold, in Quarantine and in Health
+
+The Existential Inconvenience of Coronavirus
+
+Heard on the Street
+
+The Generational Anxieties of “The Truth”
+
+“Endlings” Questions the Legitimacy of Storytelling
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-20T00:32:04.909656+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

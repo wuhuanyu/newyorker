@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">432f34c7-fb4f-4351-9061-abd1dbc427d5</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-27T00:46:58.474685+00:00</dc:date>
+        <dc:description>本期文章:
+
+Harry Houdini and the Art of Escape
+
+What Our Contagion Fables Are Really About
+
+How Joseph Smith and the Early Mormons Challenged American Democracy
+
+Briefly Noted Book Reviews
+
+The Curious Creation of Anna Kavan
+
+Self-Isolating: A Pandemic Special
+
+How the Coronavirus Shattered Trump’s Serene Confidence
+
+What Would Freud Make of the Toilet-Paper Panic?
+
+The High Schooler Who Became a COVID-19 Watchdog
+
+“Futures”
+
+Life on Lockdown in China
+
+The Heroes Who Deliver Your Kebabs
+
+A Celebration of Catherine Deneuve on the Criterion Channel
+
+What We’re Watching Under Quarantine
+
+The Coronavirus Crisis Reveals New York at Its Best and Worst
+
+“I Won’t Live Long”
+
+“Aubade”
+
+Some Coronavirus Guidelines
+
+The Oldest Restaurant in Manhattan’s Chinatown Faces the Coronavirus Shutdown
+
+The Trials of a Never Trump Republican
+
+Jean Toomer’s Odd, Keening “A Drama of the Southwest”
+
+QuarantineChat Connects Sheltering Strangers
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-27T00:47:03.369481+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

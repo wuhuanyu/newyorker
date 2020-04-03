@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2ff4762-ec5f-46ea-838b-21c968166f04</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-02T14:16:04.454882+00:00</dc:date>
+        <dc:description>本期文章:
+
+Pandemics and the Shape of Human History
+
+The Unravelling of a Dancer
+
+The MacGyvers Taking on the Ventilator Shortage
+
+A Preventable Cancer Is on the Rise in Alabama
+
+MOMA Brings Its Collection to You
+
+The History of Loneliness
+
+Inside Tove Jansson’s Private Universe
+
+Briefly Noted Book Reviews
+
+Carolyn Forché’s Education in Looking
+
+“Parent” as a Verb: Quarantine Edition
+
+The Meaning of Donald Trump’s Coronavirus Quackery
+
+How Does the Coronavirus Behave Inside a Patient?
+
+Alex Jones’s Bogus Coronavirus Cures
+
+“Love Letter”
+
+The Soup Kitchen That the Coronavirus Couldn’t Stop
+
+China’s Struggles with Hospice Care
+
+Remote Comedy’s Technical Difficulties
+
+An Open-Air Opera, Cut Short by Social Distancing
+
+Choose Your Weapon
+
+“Mask”
+
+“Shelter”
+
+Yaeji’s New Mixtape Is the Opposite of Social Distancing
+
+Quarantine FOMO
+
+The Wait for COVID-19 Tests in Queens
+
+Home Sweet Home (So Far)
+
+The Slow Fade of City Life
+
+A New York Restaurant World Reduced to Takeout and Delivery
+
+Performers on Lockdown Turn to Their Smartphones
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-02T14:16:10.229707+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

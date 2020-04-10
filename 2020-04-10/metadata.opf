@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">505</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83fff0af-95ac-4f9f-8290-823fcc38242f</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-09T22:00:56.929530+00:00</dc:date>
+        <dc:description>本期文章:
+
+A Missionary on Trial
+
+Texts from my Father, in Elmhurst Hospital
+
+Baking Bread in Lyon
+
+Dorothy Day’s Radical Faith
+
+Briefly Noted Book Reviews
+
+Joyelle McSweeney’s Poetry of Catastrophe
+
+New York City in the Coronavirus Pandemic
+
+Bringing in the Comfort
+
+The Quest for a Pandemic Pill
+
+How the Coronavirus Has Infected Our Vocabulary
+
+Adjusting to the Prophylactic Life, Under Coronavirus Quarantine
+
+Finding Moments of Calm During a Pandemic
+
+Experiencing the Coronavirus Pandemic as a Kind of Zombie Apocalypse
+
+The Ripple Effects of the Coronavirus on Immigrant Communities
+
+Why Teaching Literary Arts Over Zoom Doesn’t Quite Work
+
+Looking for Signs of Peace in a Pandemic
+
+Whom the Pandemic Has Left Stranded
+
+Trump Wants to Protect the Numbers, Not the COVID-19 Patients They Represent
+
+The View from London During the Coronavirus Pandemic
+
+The Grocers on Houston’s Front Lines
+
+How Music Can Bring Relief During These Anxious Times
+
+“The Other One”
+
+Inside a New York E.R.
+
+Home Alone Together, in L.A.
+
+Brooklyn’s Back Yard Is Still Open for Social Distancing
+
+The Crass Pleasures of “Tiger King”
+
+“After sex, checking for Instagram posts by my kids, and other avoidance strategies”
+
+“Transpirations”
+
+Postcards from a Pandemic
+
+Day Two of Curfew in Amman, Jordan
+
+Quarantine Cupboard: Day Twenty
+
+Celebrity Chefs Take to Instagram, and to the Pantry
+
+Mortality and the Old Masters
+
+As Told To: The Stop &amp; Shop Worker Christine Merola’s Report from the Register
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-09T22:01:06.715780+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

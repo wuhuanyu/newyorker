@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00fb2928-dfec-42a4-a2a7-da74e2745a14</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-17T00:14:38.584809+00:00</dc:date>
+        <dc:description>本期文章:
+
+How Mitch McConnell Became Trump’s Enabler-in-Chief
+
+How Anthony Fauci Became America’s Doctor
+
+The Met’s Online Archive of America’s Favorite Pastime
+
+Do Some Surgical Implants Do More Harm Than Good?
+
+A Memoirist Who Mistrusts Her Own Memories
+
+Briefly Noted Book Reviews
+
+The First Face You See at a South Bronx Hospital
+
+The Preëxisting Condition in the Oval Office
+
+The Price of the Coronavirus Pandemic
+
+A Feast-Day Celebration During a Pandemic
+
+“The Media”
+
+Prince Harry and Meghan Markle’s Fractured Fairy Tale
+
+The Functionally Dysfunctional Matriarchy of “Better Things”
+
+“The Ex-Basketball Players”
+
+“Toad Circus”
+
+The Strokes’ Eerily Prescient “The New Abnormal”
+
+On the Front Lines of the Coronavirus Crisis
+
+The Life and Death of Juan Sanabria, One of New York City’s First Coronavirus Victims
+
+Who Gets a Ventilator?
+
+When This Is All Over
+
+The Election-Year Landfill
+
+An Indian Restaurant in Little Pakistan Feeds Its Neighbors
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-17T00:14:42.801756+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

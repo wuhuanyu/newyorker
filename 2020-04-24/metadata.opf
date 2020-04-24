@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea4a06b1-70da-4122-9134-c902a7e38ec8</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-24T00:30:09.426381+00:00</dc:date>
+        <dc:description>本期文章:
+
+America’s Abandonment of Syria
+
+The War on Coffee
+
+Briefly Noted Book Reviews
+
+What a White-Supremacist Coup Looks Like
+
+Embracing the Chaotic Side of Zoom
+
+“The Well-Tempered Clavier,” Streaming from the Catskills
+
+Little Donald’s Sneeze (After Winsor McCay’s “Little Sammy Sneeze”)
+
+The Global Struggle to Control the Coronavirus
+
+“Bedtime Story”
+
+Trying Not to Jewbarrass the Guests at a Socially Distant Passover
+
+A Michelin-Starred Chef’s Cooking Show for the Quarantined
+
+Reviving Phyllis Schlafly in “Mrs. America”
+
+A New Doctor Faces the Coronavirus in Queens
+
+The Superfans Springing Into Mask-Making Action
+
+“At the Ruins of Yankee Stadium”
+
+“The Longer Prayer”
+
+Brittany Howard’s Transformation
+
+On the U.S.N.S. Comfort, the Fight Changes Constantly
+
+Style Rules You Must Never Break
+
+A Chinese Chef’s Tasting-Menu Deliveries, with a Side of Instagram Live
+
+Kathleen Collins’s Otherworldly Women
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-24T00:30:13.661764+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

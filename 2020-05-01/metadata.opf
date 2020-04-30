@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e424ac24-0f67-45aa-8770-04ef6887b28a</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-30T23:33:31.049869+00:00</dc:date>
+        <dc:description>本期文章:
+
+Kent State and the War That Never Ended
+
+Seattle’s Leaders Let Scientists Take the Lead. New York’s Did Not
+
+The Man Who Thought Too Fast
+
+Briefly Noted Book Reviews
+
+Pandemic Protests and Politics
+
+What the Coronavirus Crisis Reveals About American Medicine
+
+“The Wish for a Good Young Country Doctor”
+
+The Four Seasons Goes Green Zone
+
+Víkingur Ólafsson, Liza Lim, and a Surge of Streaming in Quarantine
+
+The Art of Making Do (and Emergency AirPod Retrieval)
+
+More Money More Problems in Kenya Barris’s “#blackAF”
+
+April 15, 2020: A Coronavirus Chronicle
+
+“Eviction”
+
+“The End of Poetry”
+
+COVID-19 Through a Nurse’s Lens
+
+A Pre-Pandemic Night Out with Stephen Malkmus
+
+In Memoriam: The Handshake
+
+What to Watch During the Lockdown: Month 38
+
+The Beloved Taste of Persia Finds a Second Life
+
+The Marie’s Crisis Broadway Sing-Along Continues
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-30T23:33:35.462182+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

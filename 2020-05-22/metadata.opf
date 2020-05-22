@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8cbe4c8-70d3-40fd-a2e5-e0f08fbae1ad</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-22T00:03:35.920205+00:00</dc:date>
+        <dc:description>本期文章:
+
+Our Fever for Plague Movies
+
+Will the Coronavirus Make Us Rethink Mass Incarceration?
+
+The Rogue Experimenters
+
+Is Capitalism Racist?
+
+Briefly Noted Book Reviews
+
+Where Do Eels Come From?
+
+What Donald Trump Shares with Joseph McCarthy
+
+Ballet Hispánico’s Weekly Watch Parties
+
+The Essential Workers of the New York Botanical Garden
+
+Soundtrack to a Lost New York
+
+“Demolition”
+
+The Twilight of the Iranian Revolution
+
+Concerts in the Void
+
+“Ramy” ’s Comedy of Spiritual Errors
+
+“Property”
+
+“In Quarantine, I Reflect on the Death of Ophelia”
+
+Phoebe Bridgers’s Frank, Anxious Music
+
+Everyday Parenting Tips
+
+Quarantine Hall of Shame
+
+Blue Hill in a Box
+
+Shecky Greene’s Horse Habit
+
+Cruise the Greek Islands with Steve Coogan and Rob Brydon
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-22T00:03:40.758354+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

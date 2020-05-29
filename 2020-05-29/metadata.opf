@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">528</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93ef12d8-0b46-4154-bddb-013fd378c60a</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-29T00:42:57.123574+00:00</dc:date>
+        <dc:description>本期文章:
+
+How Baseball Players Became Celebrities
+
+Do Yoga at Wave Hill—from Home
+
+Wartime for Wodehouse
+
+Briefly Noted Book Reviews
+
+The Scholar Starting Brawls with the Enlightenment
+
+The Complex Question of Reopening Schools
+
+The New Theatrics of Remote Therapy
+
+A Brooklyn Guitar Hero
+
+“Two Nurses, Smoking”
+
+A Window Onto an American Nightmare
+
+The Bushwick House Share Was a Haven—Then COVID-19 Struck
+
+“The Estuary”
+
+“Intimacies, Received”
+
+The 1975 Has More to Say
+
+Lionel Shriver Is Looking for Trouble
+
+Alan Weisman’s Thought Experiment Becomes a Reality
+
+Does the Grim Reaper Wear Sunscreen?
+
+Some of Your Third-Grade Friend’s Best Lies
+
+Restaurants Reclaim the Frozen Dinner
+
+What’s a Writers’ Room Without Junk Food?
+
+“The Painter and the Thief” Is a Quaveringly Dark Fairy Tale
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-29T00:43:02.298686+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

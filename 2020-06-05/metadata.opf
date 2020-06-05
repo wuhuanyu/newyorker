@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49e5c96f-f2a0-4ce3-80af-0de1257f8b13</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-04T23:59:40.144609+00:00</dc:date>
+        <dc:description>本期文章:
+
+Untangling Andy Warhol
+
+A Début Novel’s Immersive Urgency
+
+Briefly Noted Book Reviews
+
+What Is There to Love About Longfellow?
+
+You Miss It When It’s Gone
+
+Doing Nothing Isn’t Enough
+
+Let’s Get Small
+
+The Smell of Doughnuts
+
+Minneapolis, the Coronavirus, and Trump’s Failure to See a Crisis Coming
+
+A Reminder of “Duck and Cover” in a New Jersey Front Yard
+
+“Pursuit as Happiness”
+
+“Confessions of a Shinagawa Monkey”
+
+“White Noise”
+
+How Iceland Beat the Coronavirus
+
+Pleasure and Pain on HBO Max
+
+Zoom Fatigue? Try Houseparty
+
+“Pastoral”
+
+“More”
+
+Maxine Hong Kingston’s Genre-Defying Life and Work
+
+Block Party
+
+A Diner Turned Drive-In in Queens
+
+Edward Hopper and American Solitude
+
+“Shirley” Takes a One-Sided View of Its Subject
+
+Bel Powley Adds Staten Island to Her Accent Repertoire
+
+The Homebound Project’s Original Plays, Performed in Isolation
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-04T23:59:45.708832+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

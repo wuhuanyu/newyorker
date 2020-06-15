@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">536</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68653399-5c37-4c8e-8dae-95cac9b2d5c6</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.18.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-15T11:21:27.163942+00:00</dc:date>
+        <dc:description>本期文章:
+
+How Racist Was Flannery O’Connor?
+
+Punishment by Pandemic
+
+The History of the “Riot” Report
+
+An Installation by Felix Gonzalez-Torres Honors Sweetness and Loss
+
+Brit Bennett Reimagines the Literature of Passing
+
+Revisiting Mengele’s Malignant “Race Science”
+
+Briefly Noted Book Reviews
+
+An American Spring of Reckoning
+
+Choreography Under Lockdown
+
+“Grief”
+
+The Heart of the Uprising in Minneapolis
+
+The Trayvon Generation
+
+“George Floyd”
+
+“Pigeon and Hawk”
+
+A Photographer on the Front Lines of Philadelphia’s Protests
+
+Presidential Trolley Problems
+
+Home Hair Styling for Men
+
+Greetings from the New Brooklyn
+
+A Top Sommelier Is Upending Culinary Perspectives with His Ham Bar
+
+Who Is the Floyd Family’s Lawyer?
+
+Spike Lee Wraps History in Adventure in “Da 5 Bloods”
+
+This Is America?
+
+Testifying Against Police Brutality on Zoom
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-15T11:21:32.423594+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

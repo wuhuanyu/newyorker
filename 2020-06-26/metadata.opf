@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78c78812-58e4-4daa-8157-0507bbe4e504</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-26T00:43:54.535870+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Lockdown Lessons of “Crime and Punishment”
+
+The Promise and the Peril of Virtual Health Care
+
+Frank Kameny’s Orderly, Square Gay-Rights Activism
+
+Briefly Noted Book Reviews
+
+Juneteenth and the Meaning of Freedom
+
+How to Run a Grassroots Campaign in a Pandemic
+
+The Rescue Will Begin in Its Own Time
+
+Corina Newsome and the Black Birders Movement
+
+In Search of King David’s Lost Empire
+
+HAIM’s Carefree and Comfortable New Album
+
+My Mother’s Dreams for Her Son, and All Black Children
+
+“In a Border Town”
+
+“Flame in the Cloud at Midnight”
+
+From the Trump White House to Fox News to . . . the Cameo App?
+
+New York City’s Cornucopia of Bread to Go
+
+“Mr. Jones” Remembers When Stalin Weaponized Famine
+
+Shirley Jackson’s Son Talks to His Fictional Mom, Elisabeth Moss
+
+What Fiona Hill Learned in the White House
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-26T00:43:58.381782+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">549</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4f554fe-a391-4c7c-b16e-8807a7eab31c</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-10T06:04:50+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Unruly Genius of Joyce Carol Oates
+
+How Prosperity Transformed the Falklands
+
+The True Cost of Dollar Stores
+
+The Rabbit Outbreak
+
+Briefly Noted Book Reviews
+
+What Happens When David Mitchell Writes a Rock Novel?
+
+Caramoor’s Reënvisioned Summer Festival
+
+The Tragedy of the New Coronavirus Spikes
+
+A Black-Market Fireworks Dealer Explains This Year’s Boom
+
+What to Do About a Room with a “Vues”?
+
+“A Transparent Woman”
+
+Would You Like to Buy a Bunker?
+
+Musicians and Composers Respond to a Chaotic Moment
+
+Michaela Coel’s Chaos and Charisma in “I May Destroy You”
+
+“Pedestrian Crossing, Charlottesville”
+
+“Shanghai”
+
+Studio Notes on Your Rom-Com, for the Coronavirus Era
+
+New York Enters Phase II
+
+Foraged Foods Shorten the Supply Chain
+
+A Cynical View of Heartland Politics in “Irresistible”
+
+Why the Mueller Investigation Failed
+
+Bill Nighy’s Obsessions, Onscreen and Off
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-10T06:04:59+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

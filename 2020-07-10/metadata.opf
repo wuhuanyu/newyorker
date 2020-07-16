@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">551</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4995e4f6-1cca-4045-8f64-eafba973a194</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-16T13:48:47.875869+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Invention of the Police
+
+How Trump Is Helping Tycoons Exploit the Pandemic
+
+How Pandemics Wreak Havoc—and Open Minds
+
+The Argument of “Afropessimism”
+
+Briefly Noted Book Reviews
+
+Getting Out of Town Without a Patdown
+
+The Halted Progress of Criminal-Justice Reform
+
+The Fresh Relevance of the Dance on Camera Festival
+
+A Cop Flipped Him the Bird; He Joined the Police Academy
+
+“Jack and Della”
+
+Jarvis Cocker Asks, “Must I Evolve?”
+
+The Slob-Chic Style of the Coronavirus Pandemic
+
+Is Working with the Lincoln Project Sleeping with the Enemy?
+
+“The Field”
+
+“A Stranger”
+
+Why the Chicks Dropped Their “Dixie”
+
+Lexicon for a Pandemic
+
+Goldbelly Ships Iconic Restaurant Food to Your Home
+
+“Palm Springs” and the Comedy of Eternity
+
+The High-Finance Mogul in Charge of Our Economic Recovery
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-16T13:48:52.452333+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

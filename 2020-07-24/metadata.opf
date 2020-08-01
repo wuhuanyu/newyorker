@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79fd213d-b1d9-4911-9ac9-21e5bc929026</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-24T01:24:26.450880+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Rise and Fall of Cesar Chavez
+
+Eye-Catching Art for an Unprecedented Summer, in “Monuments Now”
+
+The Desires of Margaret Fuller
+
+John Lewis’s Legacy and America’s Redemption
+
+Columbia’s Overdue Apology to Langston Hughes
+
+Feminist Agitation for the Repeal of a New York State Abortion Law
+
+“The Lottery”
+
+The Struggle for Civil Rights in Mississippi
+
+“Emmett Till’s Glass-Top Casket”
+
+“Still-Life with Potatoes, Pearls, Raw Meat, Rhinestones, Lard, and Horse Hooves”
+
+Remembering Lorena Borjas, the Mother of a Trans Latinx Community
+
+The Climate Expert Who Delivered News No One Wanted to Hear
+
+Toni Morrison and the Ghosts in the House
+
+Larry Kramer, Public Nuisance
+
+Ethiopian Tradition for the Vegan-Curious, at Ras Plant Based
+
+The Matter of Black Lives
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-24T01:24:30.140987+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

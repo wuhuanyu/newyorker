@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f6bb9d5-f4ad-45ee-b4db-a8b6e0f10742</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-31T00:59:14.188431+00:00</dc:date>
+        <dc:description>本期文章:
+
+Joseph McCarthy and the Force of Political Falsehoods
+
+The Cold War Bunker That Became Home to a Dark-Web Empire
+
+How the Simulmatics Corporation Invented the Future
+
+Urgent Care from the Army Corps of Engineers
+
+Rethinking the Science of Skin
+
+Briefly Noted Book Reviews
+
+A Floating MAGA Rally Washes Up in New York Harbor
+
+Protest Delivered the Nineteenth Amendment
+
+Daily Harvest, a Trendy Jolly Green Giant for the Direct-to-Consumer Era
+
+How Police Unions Fight Reform
+
+Summer School for Protest Writing
+
+“Heirlooms”
+
+The Return of the Drive-In
+
+American Tragedy and Comedy, Streaming on YouTube
+
+“Limbo”
+
+“We Are Gone”
+
+The Rallying Cry in Pop Smoke’s Posthumous Album
+
+Small Talk in the Black Death
+
+The Picnic Baskets of the Pandemic
+
+Who Is Kanye’s Running Mate?
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-31T00:59:19.191768+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

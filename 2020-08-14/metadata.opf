@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af7f5e04-d334-40c7-b71b-1a524480a61e</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-11T14:31:29.629741+00:00</dc:date>
+        <dc:description>本期文章:
+
+How China Controlled the Coronavirus
+
+Escaping the City Heat at Rockaway Beach
+
+Toyin Ojih Odutola’s Visions of Power
+
+Isabel Wilkerson’s World-Historical Theory of Race and Caste
+
+Briefly Noted Book Reviews
+
+Raven Leilani’s Début Novel Deconstructs Domesticity
+
+The Woeful Inadequacy of School-Reopening Plans
+
+Can Designer Mice Save Us from COVID-19?
+
+“You Are My Dear Friend”
+
+How Suffering Farmers May Determine Trump’s Fate
+
+Taking a Blowtorch to the President’s Dad
+
+Francis Poulenc’s Drunken Angels
+
+The Musk Ox and Me
+
+“Pseudacris Crucifer”
+
+“Aubade as Fuel”
+
+Romeo and Juliet’s Socially Distant Balcony Scene
+
+Bill de Blasio Slept Here
+
+Black Entrepreneurs Bring Regional Dishes and Vegan Treats to Maison Yaki
+
+American Youths Play Politics in “Boys State”
+
+Will Charleston, a Fanciful Bloomsbury Shrine, Be a COVID Casualty?
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-11T14:31:34.861141+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

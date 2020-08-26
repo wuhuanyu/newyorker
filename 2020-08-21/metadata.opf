@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">575</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c775690-2053-4c3f-982e-0a2d0db57731</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-21T01:15:07.990503+00:00</dc:date>
+        <dc:description>本期文章:
+
+What Have We Done to the Whale?
+
+The Therapeutic Power of Gardening
+
+A Taste of Venice with the Frick’s “Cocktails with a Curator”
+
+Briefly Noted Book Reviews
+
+Catherine Lacey and the Art of Enigma
+
+Alice Oswald’s Homeric Mood
+
+The Samuel Johnson of Emoji
+
+Do V.P. Picks Matter?
+
+The Very Normal Life of Daisy Edgar-Jones
+
+“Cicadia”
+
+The Militias Against Masks
+
+El sacerdote renegado que ayuda a los indocumentados a sobrevivir a la pandemia.
+
+The Renegade Priest Helping Undocumented People Survive the Pandemic
+
+“Whisk”
+
+“Ode to Patrick Kearns, Funeral Director of the Leo F. Kearns Funeral Home, in Queens”
+
+A Drive-By Eulogy for New York City’s Record Stores
+
+Michael Rakowitz’s Art of Return
+
+Virtual Freshman Orientation
+
+Rippers, Brothers, and More of the Rockaways’ Seaside Fare
+
+The Urgency of Anna Deavere Smith’s “Twilight: Los Angeles”
+
+Be Your Own Bubble Boy
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-21T01:15:20.763514+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

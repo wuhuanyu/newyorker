@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce9f9219-21e7-473d-a309-2b1347a273d3</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-28T01:07:23.538451+00:00</dc:date>
+        <dc:description>本期文章:
+
+What Brings Elena Ferrante’s Worlds to Life?
+
+Did Pangolin Trafficking Cause the Coronavirus Pandemic?
+
+Briefly Noted Book Reviews
+
+A “Beowulf” for Our Moment
+
+Did the Democratic National Convention Go Too Smoothly?
+
+“The Sand Banks, 1861”
+
+Confessions of a Trump Troll
+
+Can Gore Vidal Find Rest in His Final Resting Place?
+
+Rewatching “Black Journal” Five Decades On
+
+How Wagner Shaped Hollywood
+
+A Transit Worker’s Survival Story
+
+“September First Again”
+
+“To Antigone, a Dispatch”
+
+Can Biden’s Center Hold?
+
+A Letter from Mrs. Nice Guy
+
+A Savvy Take on the Chicken Dinner at Winner, in Park Slope
+
+Returning to Storm King
+
+When the Ice-Cream Man Goes Rogue
+
+What Would Nikola Tesla Make of a MacBook?
+
+Jessie Buckley: From “Fargo” to the Inside of Charlie Kaufman’s Head
+
+The Self-Guided, Outdoor Theatre of “Cairns”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-28T01:07:29.022901+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

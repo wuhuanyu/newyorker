@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efb3d00b-7518-42f1-913a-5969e645e543</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-10T23:58:53.092812+00:00</dc:date>
+        <dc:description>本期文章:
+
+Is Russian Meddling as Dangerous as We Think?
+
+How Can We Pay for Creativity in the Digital Age?
+
+Briefly Noted Book Reviews
+
+Yaa Gyasi Explores the Science of the Soul
+
+The Injustices of Aging
+
+Tragedy and Compassion at the Opera
+
+Our Long, Forgotten History of Election-Related Violence
+
+Coffee with Sasquatch and a Couple of Robots
+
+Roger Angell at a Hundred
+
+“The Englishman”
+
+“Mulan” Star Jason Scott Lee Is Recovering from COVID-19
+
+Susanna Clarke’s Fantasy World of Interiors
+
+How My Mother and I Became Chinese Propaganda
+
+“I have slept in many places, for years on mattresses that entered”
+
+“Grendel”
+
+The Colorful Worlds of Pipilotti Rist
+
+Opt Out
+
+COVID Silver Lining: The Porta-Potty Boom
+
+Pulkies’s “Jewish-Style BBQ”
+
+The Joys of Nineteenth-Century French Drawings
+
+“Tenet” is Dazzling, Deft, and Devoid of Feeling
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-10T23:58:57.860742+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

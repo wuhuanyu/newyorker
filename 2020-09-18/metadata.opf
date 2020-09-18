@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e00be6e-003b-4121-a2d5-ad4b801cf55e</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-18T01:02:35.504714+00:00</dc:date>
+        <dc:description>本期文章:
+
+Black Scholars Confront White Supremacy in Classical Music
+
+The Man Who Refused to Spy
+
+How the Promise of Normalcy Won the 1920 Election
+
+MOMA Reopens with an Iconic Milton Glaser Mural
+
+Goya and the Art of Survival
+
+When a Virus Becomes a Muse
+
+Briefly Noted Book Reviews
+
+The Case for Dumping the Electoral College
+
+“Switzerland”
+
+An American Writer for an Age of Division
+
+Stop Doomscrolling and Play a Board Game About Class Warfare
+
+“Remedy”
+
+“Rauschenberg”
+
+Beverly Glenn-Copeland’s Music for a Future That Never Came
+
+The Many Faces of Ethan Hawke
+
+One-Star Yelp Reviews of Heaven
+
+Starting Work on the Joe Biden Presidential Library
+
+Further Revelations from Bob Woodward’s “Rage”
+
+Bermuda Wants You!
+
+Touchstones of El Salvador in New York
+
+Is Richard Jenkins the Most Famous Person in Rhode Island?
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-18T01:02:40.535071+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

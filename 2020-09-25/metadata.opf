@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">592</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50f17b0e-a4ba-493e-8f9f-12b6d6dbc9df</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-25T01:35:06.414792+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Public-Shaming Pandemic
+
+Home on the Ranch with Travis Fimmel
+
+Why We Keep Reinventing Abraham Lincoln
+
+Briefly Noted Book Reviews
+
+Poems That Map the Urges of Private and Political Space
+
+We Can No Longer Pretend We’re Not Free-Falling
+
+The Tragedy of the West Coast Wildfires
+
+The Race to Redesign Sugar
+
+“Face Time”
+
+A New Rabbi Schleps Through the Village to Meet Her Flock
+
+The New York Film Festival Goes Virtual
+
+The L.A. Philharmonic’s Emotional Return to an Empty Hollywood Bowl
+
+The Giddily Twisted Action of “The Boys”
+
+The Elusive Peril of Space Junk
+
+On the Road with the Three “R”s
+
+A Young Kennedy, in Kushnerland, Turned Whistle-Blower
+
+“Before the Raised Eyebrows”
+
+“Spoiler”
+
+S.O.S.
+
+Rice Is Both Culture and Comfort at FieldTrip
+
+“Kajillionaire” Challenges Miranda July’s Aptitude for Whimsy
+
+The Legal Fight Awaiting Us After the Election
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-25T01:35:11.160859+00:00" name="calibre:timestamp"/>
+        <meta content="New Yorker Magazine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

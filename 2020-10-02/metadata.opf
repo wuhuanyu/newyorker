@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac587b05-4c87-4363-b7b5-710ed3472561</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-02T01:04:23.889141+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Students Left Behind by Remote Learning
+
+Why Private Eyes Are Everywhere Now
+
+How Does Science Really Work?
+
+How to Misread Jane Austen
+
+Briefly Noted Book Reviews
+
+Misty Copeland and Alessandra Ferri on Dancing the Role of Juliet
+
+“Rainbows”
+
+The Search for Kindred Spirits in “We Are Who We Are,” on HBO
+
+A Fuller Picture of Artemisia Gentileschi
+
+My Three Fathers
+
+Can Podcasts Improve Our Well-Being?
+
+“I Sit Outside in Low Late-Afternoon Light to Feel Earth Call to Me”
+
+“Family as a Western in Which No One Talks”
+
+Harry Smith’s Musical Catalogue of Human Experience
+
+Marilynne Robinson’s Essential American Stories
+
+A Karen Defends Her Kind
+
+The insomnia remedies that Mitch McConnell, Lindsey Graham, and other lawmakers turn to when anxiety or conscience gets in the way.
+
+Burmese Food and a Hopeful Vision at Yun Café &amp; Asian Mart
+
+The New Yorker Endorses a Biden Presidency
+
+Controlling the Pandemic Is the First Step Toward Rescuing a Failed System
+
+Biden Can Rise to the Challenge of Our Climate Emergency
+
+Ending Trump’s Assault on the Rule of Law
+
+Biden’s Moral Imperative to Safeguard Civil Rights
+
+Biden Will Restore America’s Moral Leadership
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-02T01:04:30.483572+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

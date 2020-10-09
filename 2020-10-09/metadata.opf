@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a17a707-bd4e-411c-852e-0f27a9cc2ab1</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-09T01:00:12+00:00</dc:date>
+        <dc:description>本期文章:
+
+Nine Days in Wuhan, the Ground Zero of the Coronavirus Pandemic
+
+“The Nature of Color” at the Reopened American Museum of Natural History
+
+How James Beard Invented American Cooking
+
+The Day Nuclear War Almost Broke Out
+
+Briefly Noted Book Reviews
+
+The Coronavirus and the Threat Within the White House
+
+“Suffocation Theory”
+
+The Dad Who Taught Lin-Manuel Miranda Retail Politics
+
+Ruth’s Army: R.B.G.’s Former Clerks Show Up
+
+Chile at the Barricades
+
+Turn On, Tune In, Get Well
+
+“Daffodils”
+
+“Lipsticks”
+
+The Iconoclast Remaking Los Angeles’s Most Important Museum
+
+A Star of “The Boys” on Sending Up the Superhero Genre
+
+A Few Clarifications About My Viral Video
+
+Trump’s Taxes: But Wait, It Gets Worse
+
+Chilaquiles Straight from a Chef’s Home Kitchen
+
+A Feminist Fractal in “The Glorias”
+
+Inside the Lincoln Project’s War Against Trump
+
+How Are Audiences Adapting to the Age of Virtual Theatre?
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-09T01:00:18+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab252399-eb43-4244-91c6-db32933a1b49</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-16T01:01:01.872894+00:00</dc:date>
+        <dc:description>本期文章:
+
+Why Facebook Can’t Fix Itself
+
+Chase Strangio’s Victories for Transgender Rights
+
+Glad for Plaid, as Catholic Schools Pick Up the Slack
+
+The United States of Dolly Parton
+
+The Heartsick Hilarity of John Berryman’s Letters
+
+Briefly Noted Book Reviews
+
+Philosophy in the Shadow of Nazism
+
+Donald Trump’s Consistent Unreliability on COVID, and Everything Else
+
+“Life Without Children”
+
+“AngelHeaded Hipster”: Hal Willner Does T. Rex
+
+Chloë Sevigny Is a Cool Mom
+
+Adrianne Lenker’s Radical Honesty
+
+How We Lie to Ourselves About History
+
+“Vectors”
+
+“Song”
+
+Andrew Cuomo, the King of New York
+
+News Cyclones: Breaking News Over Your Head
+
+New York City’s Biggest Trump Fan Wants to Paint You an American Flag
+
+Spicy Noodles and Gossip at Public Village
+
+Philip Guston and the Boundaries of Art Culture
+
+David Byrne’s “American Utopia” Comes to Television
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-16T01:01:09.092315+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

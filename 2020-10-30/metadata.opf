@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eccce417-d219-4cd9-aac9-fbc656796d75</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-03T06:09:46.522628+00:00</dc:date>
+        <dc:description>本期文章:
+
+Why Trump Can’t Afford to Lose
+
+How a C.I.A. Coverup Targeted a Whistle-blower
+
+Pay Phones Turned Into Public Art, in “Titan”
+
+Does Knowing God Just Take Practice?
+
+Briefly Noted Book Reviews
+
+Searching for Refuge After the Second World War
+
+The Trouble with Election Projections
+
+How the Coronavirus Hacks the Immune System
+
+In a Wisconsin Cookie Poll, Trump Wins by a Landslide
+
+“Ghoul”
+
+A Florida Demographic That Could Swing the Election
+
+Shep Smith’s Fresh Start
+
+A Speed-Reading App Condenses the Jeffrey Epstein Saga
+
+How New York City Ballet Took On the Pandemic
+
+“Flatline”
+
+“Mt. Rushmore”
+
+The Disappearance and Cryptic Return of Salem
+
+Wile E. Coyote, Republican Strategist
+
+Driver’s Exam (The Written Part)
+
+The Pandemic-Proof Atmosphere of the Odeon Outside
+
+Matriarchs of Steel in “Let Him Go”
+
+Reënacting the Trial of a Black Woman Convicted of Voter Fraud
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-03T06:09:51.365467+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

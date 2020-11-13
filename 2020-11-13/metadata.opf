@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49b7c472-0ea5-453e-9e45-75026cfa6d2e</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.4.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-13T00:32:01.975722+00:00</dc:date>
+        <dc:description>本期文章:
+
+Pulling Our Politics Back from the Brink
+
+Our Love-Hate Relationship with Gimmicks
+
+Shirley Hazzard and the Art of Outsized Intimacy
+
+Briefly Noted Book Reviews
+
+The Biden Era Begins
+
+Awaiting Voting Results, New York Becomes Plywood City
+
+“Hansa and Gretyl and Piece of Shit”
+
+After Years of Protests Every Wednesday, L.A. Activists Welcome a New D.A.
+
+The Curse of the Buried Treasure
+
+The Film Foundation Comes to the Criterion Channel
+
+“The Undoing” Is Empty Life-style Porn
+
+The Ability to Cry
+
+The Secret Sounds of “Song Exploder”
+
+“Ways of Being Lonely”
+
+“Spumante”
+
+What Makes the Difference Between Getting Out of Prison and Staying Out?
+
+Introducing the Trump Scouts
+
+Is It Time to Change the President?
+
+Cori Bush, a Nurse and Activist, Becomes the First Black Woman to Represent Missouri in Congress
+
+A Whirl Through the Philippines with Jeepney’s Meal Kits
+
+How to Read Sam Gilliam’s Formalism
+
+Discoveries and Awakenings in “Ammonite”
+
+Delaware Voters Await Joe Biden: “We Just Need Him”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-13T00:32:22.593237+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

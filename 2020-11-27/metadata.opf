@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81c01a12-0893-49ab-9090-005f09dbcec6</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-27T01:14:54.819373+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Urban Refuge of the New York Botanical Garden
+
+The Long Awakening of Adrienne Rich
+
+William Faulkner’s Demons
+
+Briefly Noted Book Reviews
+
+Biden’s Covid-19 Mission
+
+“The Winged Thing”
+
+In Georgia, the Dullest Spectator Sport in the World
+
+The Motley Crew Leading Trump’s Election Challenges
+
+How Venture Capitalists Are Deforming Capitalism
+
+The Sensuality and Brutality of Steve McQueen’s “Small Axe”
+
+The Art of Building the Impossible
+
+Preparing to Spin the Wheel of Fortune
+
+“Betye Saar’s ‘Mystic Chart for an Unemployed Sorceress’ ”
+
+“Gravitational”
+
+“November”
+
+Faces of a Fast-Food Nation
+
+Dark Sitcom Reboots: Beyond “Bel-Air”
+
+Green-Wood Cemetery’s New Artist-in-Residence
+
+Hatch Chilies and Southwestern Hygge at Ursula
+
+The Metropolitan Museum at a Hundred and Fifty
+
+Don’t Typecast Lesley Manville
+
+The Heavy Toll of the Black Belt’s Wastewater Crisis
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-27T01:15:13.018174+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

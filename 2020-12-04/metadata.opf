@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df6bf755-aaae-470b-97f8-8d953a92f358</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-04T01:28:01.047814+00:00</dc:date>
+        <dc:description>本期文章:
+
+What Henry Adams Understood About History’s Breaking Points
+
+When One Parent Leaves a Hasidic Community, What Happens to the Kids?
+
+Why New York’s Mob Mythology Endures
+
+Briefly Noted Book Reviews
+
+What if You Could Outsource Your To-Do List?
+
+A Prisoners’ Chorus in “Breathing Free”
+
+A Cheery Story
+
+The Cost of Trump’s Assault on the Press and the Truth
+
+COVID Goes to College
+
+“Dietrologia”
+
+The Treasure in Frank Zappa’s Secret Subterranean Vault
+
+Using the Homeless to Guard Empty Houses
+
+What Does It Mean to “Reimagine” an Orchestra Season?
+
+“Roadkill” Offers the Fantasy of Politics as Usual
+
+“Winter Song for One Who Suffers”
+
+“Little Spy in My Bedroom”
+
+The Race to Make Vials for Coronavirus Vaccines
+
+Raised by Wolves
+
+The Brooklyn School Suing the C.D.C.
+
+In Greenpoint, Edy’s Grocer Offers Lebanese Food with a Nod to the Polish Past
+
+Economic Ruthlessness on the Open Road in “Nomadland”
+
+Tobias Menzies of “The Crown” Crashed on Helena Bonham Carter’s Couch Before Lockdown
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-04T01:28:11.372329+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

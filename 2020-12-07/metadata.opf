@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26a6de2c-1ffb-4295-a963-9ae2cbebf921</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.6.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-11T01:27:21.197668+00:00</dc:date>
+        <dc:description>本期文章:
+
+A Tycoon’s Deep-State Conspiracy Dive
+
+A Taylor Mac Holiday Show, Tweaked for the Pandemic
+
+The Skeletons at the Lake
+
+The Italian Genius Who Mixed Marxism and Children’s Literature
+
+Briefly Noted Book Reviews
+
+Getting Through the COVID Winter
+
+Countdown to a Coronavirus Vaccine
+
+A Dad-Rocker in the State Department
+
+“Rwanda”
+
+A California Councilwoman’s Quest to Keep Restaurants Open
+
+“A Teacher”: A Series Best Saved for Fourth-Period Health Class
+
+Nabokov, Steinberg, and Me
+
+Why Do We Still Love “The Office”?
+
+“New York”
+
+“Marsyas, After”
+
+The Raw Sounds of Rico Nasty
+
+My Colleague, the Antichrist
+
+A New Kind of Hot Chicken, from Pecking House
+
+Meryl Streep on the High Seas in “Let Them All Talk”
+
+Zosia Mamet Is a Horse Girl
+
+Andrew Bird’s Cozy Melancholy
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-11T01:27:26.692614+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

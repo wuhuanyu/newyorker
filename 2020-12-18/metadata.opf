@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9c254ba-b594-4306-a1af-d2ddc40a654f</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.7.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-18T01:21:53.599978+00:00</dc:date>
+        <dc:description>本期文章:
+
+What If You Could Do It All Over?
+
+Murder in Malta
+
+The High-Wattage Holiday Lights of Dyker Heights
+
+When a Virus Is the Cure
+
+Can Kid Art Be Real Art?
+
+Briefly Noted Book Reviews
+
+America’s War on Syrian Civilians
+
+The High Stakes of Georgia’s Loeffler-Warnock Senate Race
+
+The Fiftieth Anniversary of “Feliz Navidad,” the Simplest Song Ever Written
+
+“Our Lady of the Quarry”
+
+Asking All Georgians: Are You Seventeen and a Half?
+
+“How To with John Wilson” Offers a Martian’s-Eye View of Homo Sapiens’ Habits
+
+Cartoon Saloon and the New Golden Age of Animation
+
+Reimagining August Wilson’s “Ma Rainey’s Black Bottom” on the Small Screen
+
+“The Bats”
+
+“April”
+
+Paul McCartney’s Surprisingly Playful Pandemic Album
+
+Arthur Jafa’s Radical Alienation
+
+A Pandemic Horoscope for December
+
+Obsession-Worthy Tacos at Yellow Rose
+
+The Melancholy Gestalt of Isolation
+
+Planned Alcoholism in “Another Round” and Weaponized Camp in “The Prom”
+
+What are the Odds That Trump Pardons Himself?
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-18T01:21:59.264281+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

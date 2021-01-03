@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b314fea-5b8f-4e71-917d-361aac4d5105</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-03T02:33:59.965237+00:00</dc:date>
+        <dc:description>本期文章:
+
+Is Substack the Media Future We Want?
+
+The Plague Year
+
+New Year’s Eve Goes Virtual
+
+Toppling the Statues, Virtually
+
+Briefly Noted Book Reviews
+
+What Thomas Jefferson Could Never Understand About Jesus
+
+The Italian Novelist Who Envisioned a World Without Humanity
+
+What We Get Wrong About America’s Crisis of Democracy
+
+The Holiday Crossword: Century 21
+
+Is Every Ambitious Teen-ager a “Founder and C.E.O.”?
+
+“The Rivals”
+
+Anthony Weiner’s Comeback Gig
+
+A Hot Mess Caught in a Caper in “The Flight Attendant”
+
+“I Catch Sight of the Now”
+
+“Final Poem for My Father Misnamed in My Mouth”
+
+Roman Coppola’s Newest Collaborators Are His Kids
+
+Barbecued Ribs from a Michelin-Starred Chef
+
+“Dear Comrades!” Is Andrei Konchalovsky’s Masterpiece
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-03T02:34:05.265941+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

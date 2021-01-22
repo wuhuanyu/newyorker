@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">674</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08671602-1c5a-4dd2-a635-ba76bbcade4c</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-22T01:17:38.463586+00:00</dc:date>
+        <dc:description>本期文章:
+
+Among the Insurrectionists
+
+A Raft of Penguins at the Central Park Zoo
+
+The Pre-Civil War Fight Against White Supremacy
+
+Have We Already Been Visited by Aliens?
+
+Briefly Noted Book Reviews
+
+What Happens When You Breathe
+
+Can We See Past the Myth of the Himalaya?
+
+Why Trump Must Go on Trial
+
+An Untested Source of Pandemic Data? The Sewer
+
+How Jacob Collier Found a Key That Doesn’t Exist
+
+“A Challenge You Have Overcome”
+
+Looking for Gold at a Department of Finance Vehicle Auction
+
+The Delights of New York, Fran Lebowitz, and Martin Scorsese’s Laugh
+
+Waking Up from the American Dream
+
+“Last Words”
+
+“To Be Young”
+
+The Obsessive Beat-Making of Madlib
+
+Waiting for To-Go
+
+The Glorious Fish and Chips at Dame
+
+Dressing for Dinner When Dinner Is in a Frigid Curbside Yurt
+
+“MLK/FBI” Forbids Us to Relax
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-22T01:17:43.432881+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

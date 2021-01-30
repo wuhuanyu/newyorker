@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb160c18-feda-42fb-8d7c-b83b4e78ef80</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-30T14:18:59.913423+00:00</dc:date>
+        <dc:description>本期文章:
+
+What We Get Wrong About Joan Didion
+
+A Kenyan Ecologist’s Crusade to Save Her Country’s Wildlife
+
+Has the Pandemic Transformed the Office Forever?
+
+A Trump Holdout in Atlanta
+
+How to Make Sense of Scents
+
+Briefly Noted
+
+What Are the Cultural Revolution’s Lessons for Our Current Moment?
+
+The Blackwell Sisters and the Harrowing History of Modern Medicine
+
+A Philip Glass Opera in Arresting Stop-Motion
+
+Can Joe Biden Restore America’s Belief That Government Is Good for People?
+
+“The Wind”
+
+Why McConnell Dumped Trump
+
+A Parisian Writes Her Revenge
+
+Living with a Visionary
+
+“Portrait of My Brother at Thirteen and 5′2″”
+
+“Horse in a Gas Mask”
+
+Things That Are Different in Europe
+
+A Deeper Understanding of Mexican Food at Gastronomy Underground
+
+The Revelations of an Unlikely Pairing
+
+Once More, with Feeling: Justin Timberlake’s Sensitive-Guy Role
+
+Baghdad on the Potomac: An Inauguration Day Tour
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-30T14:19:05.064896+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

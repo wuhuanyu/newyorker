@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">681</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3096c3e-59bc-4378-a792-f4ee398c441e</dc:identifier>
+        <dc:title>New Yorker Magazine</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-03T14:39:53+00:00</dc:date>
+        <dc:description>本期文章:
+
+The Race to Dismantle Trump’s Immigration Policies
+
+First-Rate Public Art at the Moynihan Train Hall
+
+The Plan to Build a Capital for Black Capitalism
+
+How a Young Activist Is Helping Pope Francis Battle Climate Change
+
+The Next Cyberattack Is Already Under Way
+
+Who Was Mike Nichols When He Wasn’t Playing Mike Nichols?
+
+Lucian Freud and the Truth of the Body
+
+Briefly Noted Book Reviews
+
+Big Laughs and Hard Silences in Erin Belieu’s Poetry
+
+Cartoon Caption Contest
+
+Cartoons from the February 8, 2021, Issue
+
+A New Day for the Climate
+
+Jilly Ballistic Imagines They’re Bodies
+
+“A Wrinkle in the Realm”
+
+Who Does David Duchovny Think He Is?
+
+Extra! Extra! Kim Hastreiter’s Back with “The New Now”
+
+Trump Tower, Historic Landmark?
+
+The Sputnik V Vaccine and Russia’s Race to Immunity
+
+When Work Becomes Life in “Call My Agent!” and “The Bureau”
+
+“There Is Nothing Quieter”
+
+“This Is Not a Poem”
+
+Revisiting the Tender Sounds of Dusty Springfield
+
+You Praised Hitler in a Speech? How to Avoid Those “Oops” Moments
+
+Audrey Hepburn’s Favorite Song
+
+A Taste of New York at Rolo’s
+
+The New Yorker February 8, 2021
+
+Denzel Washington Sweats “The Little Things”
+
+Content from the New Yorker website</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新闻</dc:subject>
+        <dc:subject>New Yorker Magazine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-03T14:40:09+00:00"/>
+        <meta name="calibre:title_sort" content="New Yorker Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
